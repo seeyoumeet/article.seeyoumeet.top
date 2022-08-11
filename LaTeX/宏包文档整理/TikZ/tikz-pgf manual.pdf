@@ -1,0 +1,3353 @@
+%PDF-1.4
+%ĞÔÅØ
+5 0 obj
+<< /S /GoTo /D (section.1) >>
+endobj
+8 0 obj
+(Introduction)
+endobj
+9 0 obj
+<< /S /GoTo /D (subsection.1.1) >>
+endobj
+12 0 obj
+(Structure of the System)
+endobj
+13 0 obj
+<< /S /GoTo /D (subsection.1.2) >>
+endobj
+16 0 obj
+(Comparison with Other Graphics Packages)
+endobj
+17 0 obj
+<< /S /GoTo /D (subsection.1.3) >>
+endobj
+20 0 obj
+(Utilities: Page Management)
+endobj
+21 0 obj
+<< /S /GoTo /D (subsection.1.4) >>
+endobj
+24 0 obj
+(How to Read This Manual)
+endobj
+25 0 obj
+<< /S /GoTo /D (subsection.1.5) >>
+endobj
+28 0 obj
+(Authors and Acknowledgements)
+endobj
+29 0 obj
+<< /S /GoTo /D (subsection.1.6) >>
+endobj
+32 0 obj
+(Getting Help)
+endobj
+33 0 obj
+<< /S /GoTo /D (part.1) >>
+endobj
+36 0 obj
+(I Tutorials and Guidelines)
+endobj
+37 0 obj
+<< /S /GoTo /D (section.2) >>
+endobj
+40 0 obj
+(Tutorial: A Picture for Karl's Students)
+endobj
+41 0 obj
+<< /S /GoTo /D (subsection.2.1) >>
+endobj
+44 0 obj
+(Problem Statement)
+endobj
+45 0 obj
+<< /S /GoTo /D (subsection.2.2) >>
+endobj
+48 0 obj
+(Setting up the Environment)
+endobj
+49 0 obj
+<< /S /GoTo /D (subsubsection.2.2.1) >>
+endobj
+52 0 obj
+(Setting up the Environment in LaTeX)
+endobj
+53 0 obj
+<< /S /GoTo /D (subsubsection.2.2.2) >>
+endobj
+56 0 obj
+(Setting up the Environment in Plain TeX)
+endobj
+57 0 obj
+<< /S /GoTo /D (subsubsection.2.2.3) >>
+endobj
+60 0 obj
+(Setting up the Environment in ConTeXt)
+endobj
+61 0 obj
+<< /S /GoTo /D (subsection.2.3) >>
+endobj
+64 0 obj
+(Straight Path Construction)
+endobj
+65 0 obj
+<< /S /GoTo /D (subsection.2.4) >>
+endobj
+68 0 obj
+(Curved Path Construction)
+endobj
+69 0 obj
+<< /S /GoTo /D (subsection.2.5) >>
+endobj
+72 0 obj
+(Circle Path Construction)
+endobj
+73 0 obj
+<< /S /GoTo /D (subsection.2.6) >>
+endobj
+76 0 obj
+(Rectangle Path Construction)
+endobj
+77 0 obj
+<< /S /GoTo /D (subsection.2.7) >>
+endobj
+80 0 obj
+(Grid Path Construction)
+endobj
+81 0 obj
+<< /S /GoTo /D (subsection.2.8) >>
+endobj
+84 0 obj
+(Adding a Touch of Style)
+endobj
+85 0 obj
+<< /S /GoTo /D (subsection.2.9) >>
+endobj
+88 0 obj
+(Drawing Options)
+endobj
+89 0 obj
+<< /S /GoTo /D (subsection.2.10) >>
+endobj
+92 0 obj
+(Arc Path Construction)
+endobj
+93 0 obj
+<< /S /GoTo /D (subsection.2.11) >>
+endobj
+96 0 obj
+(Clipping a Path)
+endobj
+97 0 obj
+<< /S /GoTo /D (subsection.2.12) >>
+endobj
+100 0 obj
+(Parabola and Sine Path Construction)
+endobj
+101 0 obj
+<< /S /GoTo /D (subsection.2.13) >>
+endobj
+104 0 obj
+(Filling and Drawing)
+endobj
+105 0 obj
+<< /S /GoTo /D (subsection.2.14) >>
+endobj
+108 0 obj
+(Shading)
+endobj
+109 0 obj
+<< /S /GoTo /D (subsection.2.15) >>
+endobj
+112 0 obj
+(Specifying Coordinates)
+endobj
+113 0 obj
+<< /S /GoTo /D (subsection.2.16) >>
+endobj
+116 0 obj
+(Adding Arrow Tips)
+endobj
+117 0 obj
+<< /S /GoTo /D (subsection.2.17) >>
+endobj
+120 0 obj
+(Scoping)
+endobj
+121 0 obj
+<< /S /GoTo /D (subsection.2.18) >>
+endobj
+124 0 obj
+(Transformations)
+endobj
+125 0 obj
+<< /S /GoTo /D (subsection.2.19) >>
+endobj
+128 0 obj
+(Repeating Things: For-Loops)
+endobj
+129 0 obj
+<< /S /GoTo /D (subsection.2.20) >>
+endobj
+132 0 obj
+(Adding Text)
+endobj
+133 0 obj
+<< /S /GoTo /D (section.3) >>
+endobj
+136 0 obj
+(Tutorial: A Petri-Net for Hagen)
+endobj
+137 0 obj
+<< /S /GoTo /D (subsection.3.1) >>
+endobj
+140 0 obj
+(Problem Statement)
+endobj
+141 0 obj
+<< /S /GoTo /D (subsection.3.2) >>
+endobj
+144 0 obj
+(Setting up the Environment)
+endobj
+145 0 obj
+<< /S /GoTo /D (subsubsection.3.2.1) >>
+endobj
+148 0 obj
+(Setting up the Environment in LaTeX)
+endobj
+149 0 obj
+<< /S /GoTo /D (subsubsection.3.2.2) >>
+endobj
+152 0 obj
+(Setting up the Environment in Plain TeX)
+endobj
+153 0 obj
+<< /S /GoTo /D (subsubsection.3.2.3) >>
+endobj
+156 0 obj
+(Setting up the Environment in ConTeXt)
+endobj
+157 0 obj
+<< /S /GoTo /D (subsection.3.3) >>
+endobj
+160 0 obj
+(Introduction to Nodes)
+endobj
+161 0 obj
+<< /S /GoTo /D (subsection.3.4) >>
+endobj
+164 0 obj
+(Placing Nodes Using the At Syntax)
+endobj
+165 0 obj
+<< /S /GoTo /D (subsection.3.5) >>
+endobj
+168 0 obj
+(Using Styles)
+endobj
+169 0 obj
+<< /S /GoTo /D (subsection.3.6) >>
+endobj
+172 0 obj
+(Node Size)
+endobj
+173 0 obj
+<< /S /GoTo /D (subsection.3.7) >>
+endobj
+176 0 obj
+(Naming Nodes)
+endobj
+177 0 obj
+<< /S /GoTo /D (subsection.3.8) >>
+endobj
+180 0 obj
+(Placing Nodes Using Relative Placement)
+endobj
+181 0 obj
+<< /S /GoTo /D (subsection.3.9) >>
+endobj
+184 0 obj
+(Adding Labels Next to Nodes)
+endobj
+185 0 obj
+<< /S /GoTo /D (subsection.3.10) >>
+endobj
+188 0 obj
+(Connecting Nodes)
+endobj
+189 0 obj
+<< /S /GoTo /D (subsection.3.11) >>
+endobj
+192 0 obj
+(Adding Labels Next to Lines)
+endobj
+193 0 obj
+<< /S /GoTo /D (subsection.3.12) >>
+endobj
+196 0 obj
+(Adding the Snaked Line and Multi-Line Text)
+endobj
+197 0 obj
+<< /S /GoTo /D (subsection.3.13) >>
+endobj
+200 0 obj
+(Using Layers: The Background Rectangles)
+endobj
+201 0 obj
+<< /S /GoTo /D (subsection.3.14) >>
+endobj
+204 0 obj
+(The Complete Code)
+endobj
+205 0 obj
+<< /S /GoTo /D (section.4) >>
+endobj
+208 0 obj
+(Guidelines on Graphics)
+endobj
+209 0 obj
+<< /S /GoTo /D (subsection.4.1) >>
+endobj
+212 0 obj
+(Planning the Time Needed for the Creation of Graphics)
+endobj
+213 0 obj
+<< /S /GoTo /D (subsection.4.2) >>
+endobj
+216 0 obj
+(Workflow for Creating a Graphic)
+endobj
+217 0 obj
+<< /S /GoTo /D (subsection.4.3) >>
+endobj
+220 0 obj
+(Linking Graphics With the Main Text)
+endobj
+221 0 obj
+<< /S /GoTo /D (subsection.4.4) >>
+endobj
+224 0 obj
+(Consistency Between Graphics and Text)
+endobj
+225 0 obj
+<< /S /GoTo /D (subsection.4.5) >>
+endobj
+228 0 obj
+(Labels in Graphics)
+endobj
+229 0 obj
+<< /S /GoTo /D (subsection.4.6) >>
+endobj
+232 0 obj
+(Plots and Charts)
+endobj
+233 0 obj
+<< /S /GoTo /D (subsection.4.7) >>
+endobj
+236 0 obj
+(Attention and Distraction)
+endobj
+237 0 obj
+<< /S /GoTo /D (part.2) >>
+endobj
+240 0 obj
+(II Installation and Configuration)
+endobj
+241 0 obj
+<< /S /GoTo /D (section.5) >>
+endobj
+244 0 obj
+(Installation)
+endobj
+245 0 obj
+<< /S /GoTo /D (subsection.5.1) >>
+endobj
+248 0 obj
+(Package and Driver Versions)
+endobj
+249 0 obj
+<< /S /GoTo /D (subsection.5.2) >>
+endobj
+252 0 obj
+(Installing Prebundled Packages)
+endobj
+253 0 obj
+<< /S /GoTo /D (subsubsection.5.2.1) >>
+endobj
+256 0 obj
+(Debian)
+endobj
+257 0 obj
+<< /S /GoTo /D (subsubsection.5.2.2) >>
+endobj
+260 0 obj
+(MiKTeX)
+endobj
+261 0 obj
+<< /S /GoTo /D (subsection.5.3) >>
+endobj
+264 0 obj
+(Installation in a texmf Tree)
+endobj
+265 0 obj
+<< /S /GoTo /D (subsubsection.5.3.1) >>
+endobj
+268 0 obj
+(Installation that Keeps Everything Together)
+endobj
+269 0 obj
+<< /S /GoTo /D (subsubsection.5.3.2) >>
+endobj
+272 0 obj
+(Installation that is TDS-Compliant)
+endobj
+273 0 obj
+<< /S /GoTo /D (subsection.5.4) >>
+endobj
+276 0 obj
+(Updating the Installation)
+endobj
+277 0 obj
+<< /S /GoTo /D (section.6) >>
+endobj
+280 0 obj
+(Licenses and Copyright)
+endobj
+281 0 obj
+<< /S /GoTo /D (subsection.6.1) >>
+endobj
+284 0 obj
+(Which License Applies?)
+endobj
+285 0 obj
+<< /S /GoTo /D (subsection.6.2) >>
+endobj
+288 0 obj
+(The GNU Public License, Version 2)
+endobj
+289 0 obj
+<< /S /GoTo /D (subsubsection.6.2.1) >>
+endobj
+292 0 obj
+(Preamble)
+endobj
+293 0 obj
+<< /S /GoTo /D (subsubsection.6.2.2) >>
+endobj
+296 0 obj
+(Terms and Conditions For Copying, Distribution and Modification)
+endobj
+297 0 obj
+<< /S /GoTo /D (subsubsection.6.2.3) >>
+endobj
+300 0 obj
+(No Warranty)
+endobj
+301 0 obj
+<< /S /GoTo /D (subsection.6.3) >>
+endobj
+304 0 obj
+(The LaTeX Project Public License, Version 1.3c 2006-05-20)
+endobj
+305 0 obj
+<< /S /GoTo /D (subsubsection.6.3.1) >>
+endobj
+308 0 obj
+(Preamble)
+endobj
+309 0 obj
+<< /S /GoTo /D (subsubsection.6.3.2) >>
+endobj
+312 0 obj
+(Definitions)
+endobj
+313 0 obj
+<< /S /GoTo /D (subsubsection.6.3.3) >>
+endobj
+316 0 obj
+(Conditions on Distribution and Modification)
+endobj
+317 0 obj
+<< /S /GoTo /D (subsubsection.6.3.4) >>
+endobj
+320 0 obj
+(No Warranty)
+endobj
+321 0 obj
+<< /S /GoTo /D (subsubsection.6.3.5) >>
+endobj
+324 0 obj
+(Maintenance of The Work)
+endobj
+325 0 obj
+<< /S /GoTo /D (subsubsection.6.3.6) >>
+endobj
+328 0 obj
+(Whether and How to Distribute Works under This License)
+endobj
+329 0 obj
+<< /S /GoTo /D (subsubsection.6.3.7) >>
+endobj
+332 0 obj
+(Choosing This License or Another License)
+endobj
+333 0 obj
+<< /S /GoTo /D (subsubsection.6.3.8) >>
+endobj
+336 0 obj
+(A Recommendation on Modification Without Distribution)
+endobj
+337 0 obj
+<< /S /GoTo /D (subsubsection.6.3.9) >>
+endobj
+340 0 obj
+(How to Use This License)
+endobj
+341 0 obj
+<< /S /GoTo /D (subsubsection.6.3.10) >>
+endobj
+344 0 obj
+(Derived Works That Are Not Replacements)
+endobj
+345 0 obj
+<< /S /GoTo /D (subsubsection.6.3.11) >>
+endobj
+348 0 obj
+(Important Recommendations)
+endobj
+349 0 obj
+<< /S /GoTo /D (subsection.6.4) >>
+endobj
+352 0 obj
+(GNU Free Documentation License, Version 1.2, November 2002)
+endobj
+353 0 obj
+<< /S /GoTo /D (subsubsection.6.4.1) >>
+endobj
+356 0 obj
+(Preamble)
+endobj
+357 0 obj
+<< /S /GoTo /D (subsubsection.6.4.2) >>
+endobj
+360 0 obj
+(Applicability and definitions)
+endobj
+361 0 obj
+<< /S /GoTo /D (subsubsection.6.4.3) >>
+endobj
+364 0 obj
+(Verbatim Copying)
+endobj
+365 0 obj
+<< /S /GoTo /D (subsubsection.6.4.4) >>
+endobj
+368 0 obj
+(Copying in Quantity)
+endobj
+369 0 obj
+<< /S /GoTo /D (subsubsection.6.4.5) >>
+endobj
+372 0 obj
+(Modifications)
+endobj
+373 0 obj
+<< /S /GoTo /D (subsubsection.6.4.6) >>
+endobj
+376 0 obj
+(Combining Documents)
+endobj
+377 0 obj
+<< /S /GoTo /D (subsubsection.6.4.7) >>
+endobj
+380 0 obj
+(Collection of Documents)
+endobj
+381 0 obj
+<< /S /GoTo /D (subsubsection.6.4.8) >>
+endobj
+384 0 obj
+(Aggregating with independent Works)
+endobj
+385 0 obj
+<< /S /GoTo /D (subsubsection.6.4.9) >>
+endobj
+388 0 obj
+(Translation)
+endobj
+389 0 obj
+<< /S /GoTo /D (subsubsection.6.4.10) >>
+endobj
+392 0 obj
+(Termination)
+endobj
+393 0 obj
+<< /S /GoTo /D (subsubsection.6.4.11) >>
+endobj
+396 0 obj
+(Future Revisions of this License)
+endobj
+397 0 obj
+<< /S /GoTo /D (subsubsection.6.4.12) >>
+endobj
+400 0 obj
+(Addendum: How to use this License for your documents)
+endobj
+401 0 obj
+<< /S /GoTo /D (section.7) >>
+endobj
+404 0 obj
+(Input and Output Formats)
+endobj
+405 0 obj
+<< /S /GoTo /D (subsection.7.1) >>
+endobj
+408 0 obj
+(Supported Input Formats)
+endobj
+409 0 obj
+<< /S /GoTo /D (subsubsection.7.1.1) >>
+endobj
+412 0 obj
+(Using the LaTeX Format)
+endobj
+413 0 obj
+<< /S /GoTo /D (subsubsection.7.1.2) >>
+endobj
+416 0 obj
+(Using the Plain TeX Format)
+endobj
+417 0 obj
+<< /S /GoTo /D (subsubsection.7.1.3) >>
+endobj
+420 0 obj
+(Using the ConTeXt Format)
+endobj
+421 0 obj
+<< /S /GoTo /D (subsection.7.2) >>
+endobj
+424 0 obj
+(Supported Output Formats)
+endobj
+425 0 obj
+<< /S /GoTo /D (subsubsection.7.2.1) >>
+endobj
+428 0 obj
+(Selecting the Backend Driver)
+endobj
+429 0 obj
+<< /S /GoTo /D (subsubsection.7.2.2) >>
+endobj
+432 0 obj
+(Producing PDF Output)
+endobj
+433 0 obj
+<< /S /GoTo /D (subsubsection.7.2.3) >>
+endobj
+436 0 obj
+(Producing PostScript Output)
+endobj
+437 0 obj
+<< /S /GoTo /D (subsubsection.7.2.4) >>
+endobj
+440 0 obj
+(Producing HTML / SVG Output)
+endobj
+441 0 obj
+<< /S /GoTo /D (subsubsection.7.2.5) >>
+endobj
+444 0 obj
+(Producing Perfectly Portable DVI Output)
+endobj
+445 0 obj
+<< /S /GoTo /D (part.3) >>
+endobj
+448 0 obj
+(III TikZ ist kein Zeichenprogramm)
+endobj
+449 0 obj
+<< /S /GoTo /D (section.8) >>
+endobj
+452 0 obj
+(Design Principles)
+endobj
+453 0 obj
+<< /S /GoTo /D (subsection.8.1) >>
+endobj
+456 0 obj
+(Special Syntax For Specifying Points)
+endobj
+457 0 obj
+<< /S /GoTo /D (subsection.8.2) >>
+endobj
+460 0 obj
+(Special Syntax For Path Specifications)
+endobj
+461 0 obj
+<< /S /GoTo /D (subsection.8.3) >>
+endobj
+464 0 obj
+(Actions on Paths)
+endobj
+465 0 obj
+<< /S /GoTo /D (subsection.8.4) >>
+endobj
+468 0 obj
+(Key-Value Syntax for Graphic Parameters)
+endobj
+469 0 obj
+<< /S /GoTo /D (subsection.8.5) >>
+endobj
+472 0 obj
+(Special Syntax for Specifying Nodes)
+endobj
+473 0 obj
+<< /S /GoTo /D (subsection.8.6) >>
+endobj
+476 0 obj
+(Special Syntax for Specifying Trees)
+endobj
+477 0 obj
+<< /S /GoTo /D (subsection.8.7) >>
+endobj
+480 0 obj
+(Grouping of Graphic Parameters)
+endobj
+481 0 obj
+<< /S /GoTo /D (subsection.8.8) >>
+endobj
+484 0 obj
+(Coordinate Transformation System)
+endobj
+485 0 obj
+<< /S /GoTo /D (section.9) >>
+endobj
+488 0 obj
+(Hierarchical Structures: Package, Environments, Scopes, and Styles)
+endobj
+489 0 obj
+<< /S /GoTo /D (subsection.9.1) >>
+endobj
+492 0 obj
+(Loading the Package and the Libraries)
+endobj
+493 0 obj
+<< /S /GoTo /D (subsection.9.2) >>
+endobj
+496 0 obj
+(Creating a Picture)
+endobj
+497 0 obj
+<< /S /GoTo /D (subsubsection.9.2.1) >>
+endobj
+500 0 obj
+(Creating a Picture Using an Environment)
+endobj
+501 0 obj
+<< /S /GoTo /D (subsubsection.9.2.2) >>
+endobj
+504 0 obj
+(Creating a Picture Using a Command)
+endobj
+505 0 obj
+<< /S /GoTo /D (subsubsection.9.2.3) >>
+endobj
+508 0 obj
+(Adding a Background)
+endobj
+509 0 obj
+<< /S /GoTo /D (subsection.9.3) >>
+endobj
+512 0 obj
+(Using Scopes to Structure a Picture)
+endobj
+513 0 obj
+<< /S /GoTo /D (subsection.9.4) >>
+endobj
+516 0 obj
+(Using Scopes Inside Paths)
+endobj
+517 0 obj
+<< /S /GoTo /D (subsection.9.5) >>
+endobj
+520 0 obj
+(Using Styles to Manage How Pictures Look)
+endobj
+521 0 obj
+<< /S /GoTo /D (section.10) >>
+endobj
+524 0 obj
+(Specifying Coordinates)
+endobj
+525 0 obj
+<< /S /GoTo /D (subsection.10.1) >>
+endobj
+528 0 obj
+(Overview)
+endobj
+529 0 obj
+<< /S /GoTo /D (subsection.10.2) >>
+endobj
+532 0 obj
+(Coordinate Systems)
+endobj
+533 0 obj
+<< /S /GoTo /D (subsubsection.10.2.1) >>
+endobj
+536 0 obj
+(Canvas, XYZ, and Polar Coordinate Systems)
+endobj
+537 0 obj
+<< /S /GoTo /D (subsubsection.10.2.2) >>
+endobj
+540 0 obj
+(Barycentric Systems)
+endobj
+541 0 obj
+<< /S /GoTo /D (subsubsection.10.2.3) >>
+endobj
+544 0 obj
+(Node Coordinate System)
+endobj
+545 0 obj
+<< /S /GoTo /D (subsubsection.10.2.4) >>
+endobj
+548 0 obj
+(Intersection Coordinate Systems)
+endobj
+549 0 obj
+<< /S /GoTo /D (subsubsection.10.2.5) >>
+endobj
+552 0 obj
+(Defining New Coordinate Systems)
+endobj
+553 0 obj
+<< /S /GoTo /D (subsection.10.3) >>
+endobj
+556 0 obj
+(Relative and Incremental Coordinates)
+endobj
+557 0 obj
+<< /S /GoTo /D (section.11) >>
+endobj
+560 0 obj
+(Syntax for Path Specifications)
+endobj
+561 0 obj
+<< /S /GoTo /D (subsection.11.1) >>
+endobj
+564 0 obj
+(The Move-To Operation)
+endobj
+565 0 obj
+<< /S /GoTo /D (subsection.11.2) >>
+endobj
+568 0 obj
+(The Line-To Operation)
+endobj
+569 0 obj
+<< /S /GoTo /D (subsubsection.11.2.1) >>
+endobj
+572 0 obj
+(Straight Lines)
+endobj
+573 0 obj
+<< /S /GoTo /D (subsubsection.11.2.2) >>
+endobj
+576 0 obj
+(Horizontal and Vertical Lines)
+endobj
+577 0 obj
+<< /S /GoTo /D (subsubsection.11.2.3) >>
+endobj
+580 0 obj
+(Snaked Lines)
+endobj
+581 0 obj
+<< /S /GoTo /D (subsection.11.3) >>
+endobj
+584 0 obj
+(The Curve-To Operation)
+endobj
+585 0 obj
+<< /S /GoTo /D (subsection.11.4) >>
+endobj
+588 0 obj
+(The Cycle Operation)
+endobj
+589 0 obj
+<< /S /GoTo /D (subsection.11.5) >>
+endobj
+592 0 obj
+(The Rectangle Operation)
+endobj
+593 0 obj
+<< /S /GoTo /D (subsection.11.6) >>
+endobj
+596 0 obj
+(Rounding Corners)
+endobj
+597 0 obj
+<< /S /GoTo /D (subsection.11.7) >>
+endobj
+600 0 obj
+(The Circle and Ellipse Operations)
+endobj
+601 0 obj
+<< /S /GoTo /D (subsection.11.8) >>
+endobj
+604 0 obj
+(The Arc Operation)
+endobj
+605 0 obj
+<< /S /GoTo /D (subsection.11.9) >>
+endobj
+608 0 obj
+(The Grid Operation)
+endobj
+609 0 obj
+<< /S /GoTo /D (subsection.11.10) >>
+endobj
+612 0 obj
+(The Parabola Operation)
+endobj
+613 0 obj
+<< /S /GoTo /D (subsection.11.11) >>
+endobj
+616 0 obj
+(The Sine and Cosine Operation)
+endobj
+617 0 obj
+<< /S /GoTo /D (subsection.11.12) >>
+endobj
+620 0 obj
+(The Plot Operation)
+endobj
+621 0 obj
+<< /S /GoTo /D (subsection.11.13) >>
+endobj
+624 0 obj
+(The To Path Operation)
+endobj
+625 0 obj
+<< /S /GoTo /D (subsection.11.14) >>
+endobj
+628 0 obj
+(The Scoping Operation)
+endobj
+629 0 obj
+<< /S /GoTo /D (subsection.11.15) >>
+endobj
+632 0 obj
+(The Node Operation)
+endobj
+633 0 obj
+<< /S /GoTo /D (subsection.11.16) >>
+endobj
+636 0 obj
+(The PGF-Extra Operation)
+endobj
+637 0 obj
+<< /S /GoTo /D (section.12) >>
+endobj
+640 0 obj
+(Actions on Paths)
+endobj
+641 0 obj
+<< /S /GoTo /D (subsection.12.1) >>
+endobj
+644 0 obj
+(Specifying a Color)
+endobj
+645 0 obj
+<< /S /GoTo /D (subsection.12.2) >>
+endobj
+648 0 obj
+(Drawing a Path)
+endobj
+649 0 obj
+<< /S /GoTo /D (subsubsection.12.2.1) >>
+endobj
+652 0 obj
+(Graphic Parameters: Line Width, Line Cap, and Line Join)
+endobj
+653 0 obj
+<< /S /GoTo /D (subsubsection.12.2.2) >>
+endobj
+656 0 obj
+(Graphic Parameters: Dash Pattern)
+endobj
+657 0 obj
+<< /S /GoTo /D (subsubsection.12.2.3) >>
+endobj
+660 0 obj
+(Graphic Parameters: Draw Opacity)
+endobj
+661 0 obj
+<< /S /GoTo /D (subsubsection.12.2.4) >>
+endobj
+664 0 obj
+(Graphic Parameters: Arrow Tips)
+endobj
+665 0 obj
+<< /S /GoTo /D (subsubsection.12.2.5) >>
+endobj
+668 0 obj
+(Graphic Parameters: Double Lines and Bordered Lines)
+endobj
+669 0 obj
+<< /S /GoTo /D (subsection.12.3) >>
+endobj
+672 0 obj
+(Filling a Path)
+endobj
+673 0 obj
+<< /S /GoTo /D (subsubsection.12.3.1) >>
+endobj
+676 0 obj
+(Graphic Parameters: Fill Pattern)
+endobj
+677 0 obj
+<< /S /GoTo /D (subsubsection.12.3.2) >>
+endobj
+680 0 obj
+(Graphic Parameters: Interior Rules)
+endobj
+681 0 obj
+<< /S /GoTo /D (subsubsection.12.3.3) >>
+endobj
+684 0 obj
+(Graphic Parameters: Fill Opacity)
+endobj
+685 0 obj
+<< /S /GoTo /D (subsection.12.4) >>
+endobj
+688 0 obj
+(Shading a Path)
+endobj
+689 0 obj
+<< /S /GoTo /D (subsubsection.12.4.1) >>
+endobj
+692 0 obj
+(Choosing a Shading Type)
+endobj
+693 0 obj
+<< /S /GoTo /D (subsubsection.12.4.2) >>
+endobj
+696 0 obj
+(Choosing a Shading Color)
+endobj
+697 0 obj
+<< /S /GoTo /D (subsection.12.5) >>
+endobj
+700 0 obj
+(Establishing a Bounding Box)
+endobj
+701 0 obj
+<< /S /GoTo /D (subsection.12.6) >>
+endobj
+704 0 obj
+(Using a Path For Clipping)
+endobj
+705 0 obj
+<< /S /GoTo /D (section.13) >>
+endobj
+708 0 obj
+(Nodes and Edges)
+endobj
+709 0 obj
+<< /S /GoTo /D (subsection.13.1) >>
+endobj
+712 0 obj
+(Overview)
+endobj
+713 0 obj
+<< /S /GoTo /D (subsection.13.2) >>
+endobj
+716 0 obj
+(Nodes and Their Shapes)
+endobj
+717 0 obj
+<< /S /GoTo /D (subsection.13.3) >>
+endobj
+720 0 obj
+(Multi-Part Nodes)
+endobj
+721 0 obj
+<< /S /GoTo /D (subsection.13.4) >>
+endobj
+724 0 obj
+(Options for the Text in Nodes)
+endobj
+725 0 obj
+<< /S /GoTo /D (subsection.13.5) >>
+endobj
+728 0 obj
+(Placing Nodes Using Anchors)
+endobj
+729 0 obj
+<< /S /GoTo /D (subsection.13.6) >>
+endobj
+732 0 obj
+(Transformations)
+endobj
+733 0 obj
+<< /S /GoTo /D (subsection.13.7) >>
+endobj
+736 0 obj
+(Placing Nodes on a Line or Curve Explicitly)
+endobj
+737 0 obj
+<< /S /GoTo /D (subsection.13.8) >>
+endobj
+740 0 obj
+(Placing Nodes on a Line or Curve Implicitly)
+endobj
+741 0 obj
+<< /S /GoTo /D (subsection.13.9) >>
+endobj
+744 0 obj
+(The Label and Pin Options)
+endobj
+745 0 obj
+<< /S /GoTo /D (subsection.13.10) >>
+endobj
+748 0 obj
+(Connecting Nodes: Using Nodes as Coordinates)
+endobj
+749 0 obj
+<< /S /GoTo /D (subsection.13.11) >>
+endobj
+752 0 obj
+(Connecting Nodes: Using the Edge Operation)
+endobj
+753 0 obj
+<< /S /GoTo /D (subsection.13.12) >>
+endobj
+756 0 obj
+(Referencing Nodes Outside the Current Pictures)
+endobj
+757 0 obj
+<< /S /GoTo /D (subsubsection.13.12.1) >>
+endobj
+760 0 obj
+(Referencing a Node in a Different Picture)
+endobj
+761 0 obj
+<< /S /GoTo /D (subsubsection.13.12.2) >>
+endobj
+764 0 obj
+(Referencing the Current Page Node -- Absolute Positioning)
+endobj
+765 0 obj
+<< /S /GoTo /D (subsection.13.13) >>
+endobj
+768 0 obj
+(Predefined Shapes)
+endobj
+769 0 obj
+<< /S /GoTo /D (subsection.13.14) >>
+endobj
+772 0 obj
+(Executing Code After Nodes)
+endobj
+773 0 obj
+<< /S /GoTo /D (section.14) >>
+endobj
+776 0 obj
+(Matrices and Alignment)
+endobj
+777 0 obj
+<< /S /GoTo /D (subsection.14.1) >>
+endobj
+780 0 obj
+(Overview)
+endobj
+781 0 obj
+<< /S /GoTo /D (subsection.14.2) >>
+endobj
+784 0 obj
+(Matrices are Nodes)
+endobj
+785 0 obj
+<< /S /GoTo /D (subsection.14.3) >>
+endobj
+788 0 obj
+(Cell Pictures)
+endobj
+789 0 obj
+<< /S /GoTo /D (subsubsection.14.3.1) >>
+endobj
+792 0 obj
+(Alignment of Cell Pictures)
+endobj
+793 0 obj
+<< /S /GoTo /D (subsubsection.14.3.2) >>
+endobj
+796 0 obj
+(Setting and Adjusting Column and Row Spacing)
+endobj
+797 0 obj
+<< /S /GoTo /D (subsubsection.14.3.3) >>
+endobj
+800 0 obj
+(Cell Styles and Options)
+endobj
+801 0 obj
+<< /S /GoTo /D (subsection.14.4) >>
+endobj
+804 0 obj
+(Anchoring a Matrix)
+endobj
+805 0 obj
+<< /S /GoTo /D (subsection.14.5) >>
+endobj
+808 0 obj
+(Considerations Concerning Active Characters)
+endobj
+809 0 obj
+<< /S /GoTo /D (subsection.14.6) >>
+endobj
+812 0 obj
+(Examples)
+endobj
+813 0 obj
+<< /S /GoTo /D (section.15) >>
+endobj
+816 0 obj
+(Making Trees Grow)
+endobj
+817 0 obj
+<< /S /GoTo /D (subsection.15.1) >>
+endobj
+820 0 obj
+(Introduction to the Child Operation)
+endobj
+821 0 obj
+<< /S /GoTo /D (subsection.15.2) >>
+endobj
+824 0 obj
+(Child Paths and the Child Nodes)
+endobj
+825 0 obj
+<< /S /GoTo /D (subsection.15.3) >>
+endobj
+828 0 obj
+(Naming Child Nodes)
+endobj
+829 0 obj
+<< /S /GoTo /D (subsection.15.4) >>
+endobj
+832 0 obj
+(Specifying Options for Trees and Children)
+endobj
+833 0 obj
+<< /S /GoTo /D (subsection.15.5) >>
+endobj
+836 0 obj
+(Placing Child Nodes)
+endobj
+837 0 obj
+<< /S /GoTo /D (subsection.15.6) >>
+endobj
+840 0 obj
+(Edges From the Parent Node)
+endobj
+841 0 obj
+<< /S /GoTo /D (section.16) >>
+endobj
+844 0 obj
+(Plots of Functions)
+endobj
+845 0 obj
+<< /S /GoTo /D (subsection.16.1) >>
+endobj
+848 0 obj
+(When Should One Use TikZ for Generating Plots? )
+endobj
+849 0 obj
+<< /S /GoTo /D (subsection.16.2) >>
+endobj
+852 0 obj
+(The Plot Path Operation)
+endobj
+853 0 obj
+<< /S /GoTo /D (subsection.16.3) >>
+endobj
+856 0 obj
+(Plotting Points Given Inline)
+endobj
+857 0 obj
+<< /S /GoTo /D (subsection.16.4) >>
+endobj
+860 0 obj
+(Plotting Points Read From an External File)
+endobj
+861 0 obj
+<< /S /GoTo /D (subsection.16.5) >>
+endobj
+864 0 obj
+(Plotting a Function)
+endobj
+865 0 obj
+<< /S /GoTo /D (subsection.16.6) >>
+endobj
+868 0 obj
+(Plotting a Function Using Gnuplot)
+endobj
+869 0 obj
+<< /S /GoTo /D (subsection.16.7) >>
+endobj
+872 0 obj
+(Placing Marks on the Plot)
+endobj
+873 0 obj
+<< /S /GoTo /D (subsection.16.8) >>
+endobj
+876 0 obj
+(Smooth Plots, Sharp Plots, and Comb Plots)
+endobj
+877 0 obj
+<< /S /GoTo /D (section.17) >>
+endobj
+880 0 obj
+(Transformations)
+endobj
+881 0 obj
+<< /S /GoTo /D (subsection.17.1) >>
+endobj
+884 0 obj
+(The Different Coordinate Systems)
+endobj
+885 0 obj
+<< /S /GoTo /D (subsection.17.2) >>
+endobj
+888 0 obj
+(The XY- and XYZ-Coordinate Systems)
+endobj
+889 0 obj
+<< /S /GoTo /D (subsection.17.3) >>
+endobj
+892 0 obj
+(Coordinate Transformations)
+endobj
+893 0 obj
+<< /S /GoTo /D (part.4) >>
+endobj
+896 0 obj
+(IV Libraries)
+endobj
+897 0 obj
+<< /S /GoTo /D (section.18) >>
+endobj
+900 0 obj
+(Arrow Tip Library)
+endobj
+901 0 obj
+<< /S /GoTo /D (subsection.18.1) >>
+endobj
+904 0 obj
+(Triangular Arrow Tips)
+endobj
+905 0 obj
+<< /S /GoTo /D (subsection.18.2) >>
+endobj
+908 0 obj
+(Barbed Arrow Tips)
+endobj
+909 0 obj
+<< /S /GoTo /D (subsection.18.3) >>
+endobj
+912 0 obj
+(Bracket-Like Arrow Tips)
+endobj
+913 0 obj
+<< /S /GoTo /D (subsection.18.4) >>
+endobj
+916 0 obj
+(Circle and Diamond Arrow Tips)
+endobj
+917 0 obj
+<< /S /GoTo /D (subsection.18.5) >>
+endobj
+920 0 obj
+(Serif-Like Arrow Tips)
+endobj
+921 0 obj
+<< /S /GoTo /D (subsection.18.6) >>
+endobj
+924 0 obj
+(Partial Arrow Tips)
+endobj
+925 0 obj
+<< /S /GoTo /D (subsection.18.7) >>
+endobj
+928 0 obj
+(Line Caps)
+endobj
+929 0 obj
+<< /S /GoTo /D (section.19) >>
+endobj
+932 0 obj
+(Automata Drawing Library)
+endobj
+933 0 obj
+<< /S /GoTo /D (subsection.19.1) >>
+endobj
+936 0 obj
+(Drawing Automata)
+endobj
+937 0 obj
+<< /S /GoTo /D (subsection.19.2) >>
+endobj
+940 0 obj
+(States With and Without Output)
+endobj
+941 0 obj
+<< /S /GoTo /D (subsection.19.3) >>
+endobj
+944 0 obj
+(Initial and Accepting States)
+endobj
+945 0 obj
+<< /S /GoTo /D (subsection.19.4) >>
+endobj
+948 0 obj
+(Examples)
+endobj
+949 0 obj
+<< /S /GoTo /D (section.20) >>
+endobj
+952 0 obj
+(Background Library)
+endobj
+953 0 obj
+<< /S /GoTo /D (section.21) >>
+endobj
+956 0 obj
+(Calendar Library)
+endobj
+957 0 obj
+<< /S /GoTo /D (subsection.21.1) >>
+endobj
+960 0 obj
+(Calendar Command)
+endobj
+961 0 obj
+<< /S /GoTo /D (subsubsection.21.1.1) >>
+endobj
+964 0 obj
+(Creating a Simple List of Days)
+endobj
+965 0 obj
+<< /S /GoTo /D (subsubsection.21.1.2) >>
+endobj
+968 0 obj
+(Adding a Month Label)
+endobj
+969 0 obj
+<< /S /GoTo /D (subsubsection.21.1.3) >>
+endobj
+972 0 obj
+(Creating a Week List Arrangement)
+endobj
+973 0 obj
+<< /S /GoTo /D (subsubsection.21.1.4) >>
+endobj
+976 0 obj
+(Creating a Month List Arrangement)
+endobj
+977 0 obj
+<< /S /GoTo /D (subsection.21.2) >>
+endobj
+980 0 obj
+(Arrangements)
+endobj
+981 0 obj
+<< /S /GoTo /D (subsection.21.3) >>
+endobj
+984 0 obj
+(Month Labels)
+endobj
+985 0 obj
+<< /S /GoTo /D (subsection.21.4) >>
+endobj
+988 0 obj
+(Examples)
+endobj
+989 0 obj
+<< /S /GoTo /D (section.22) >>
+endobj
+992 0 obj
+(Entity-Relationship Diagram Drawing Library)
+endobj
+993 0 obj
+<< /S /GoTo /D (subsection.22.1) >>
+endobj
+996 0 obj
+(Entities)
+endobj
+997 0 obj
+<< /S /GoTo /D (subsection.22.2) >>
+endobj
+1000 0 obj
+(Relationships)
+endobj
+1001 0 obj
+<< /S /GoTo /D (subsection.22.3) >>
+endobj
+1004 0 obj
+(Attributes)
+endobj
+1005 0 obj
+<< /S /GoTo /D (section.23) >>
+endobj
+1008 0 obj
+(Paper Folding Diagrams Library)
+endobj
+1009 0 obj
+<< /S /GoTo /D (section.24) >>
+endobj
+1012 0 obj
+(Matrix Library)
+endobj
+1013 0 obj
+<< /S /GoTo /D (subsection.24.1) >>
+endobj
+1016 0 obj
+(Matrices of Nodes)
+endobj
+1017 0 obj
+<< /S /GoTo /D (subsection.24.2) >>
+endobj
+1020 0 obj
+(Delimiters)
+endobj
+1021 0 obj
+<< /S /GoTo /D (section.25) >>
+endobj
+1024 0 obj
+(Mindmap Drawing Library)
+endobj
+1025 0 obj
+<< /S /GoTo /D (subsection.25.1) >>
+endobj
+1028 0 obj
+(Overview)
+endobj
+1029 0 obj
+<< /S /GoTo /D (subsection.25.2) >>
+endobj
+1032 0 obj
+(The Mindmap Style)
+endobj
+1033 0 obj
+<< /S /GoTo /D (subsection.25.3) >>
+endobj
+1036 0 obj
+(Concepts Nodes)
+endobj
+1037 0 obj
+<< /S /GoTo /D (subsubsection.25.3.1) >>
+endobj
+1040 0 obj
+(Isolated Concepts)
+endobj
+1041 0 obj
+<< /S /GoTo /D (subsubsection.25.3.2) >>
+endobj
+1044 0 obj
+(Concepts in Trees)
+endobj
+1045 0 obj
+<< /S /GoTo /D (subsection.25.4) >>
+endobj
+1048 0 obj
+(Connecting Concepts)
+endobj
+1049 0 obj
+<< /S /GoTo /D (subsubsection.25.4.1) >>
+endobj
+1052 0 obj
+(Simple Connections)
+endobj
+1053 0 obj
+<< /S /GoTo /D (subsubsection.25.4.2) >>
+endobj
+1056 0 obj
+(The Circle Connection Bar Snake)
+endobj
+1057 0 obj
+<< /S /GoTo /D (subsubsection.25.4.3) >>
+endobj
+1060 0 obj
+(The Circle Connection Bar To-Path)
+endobj
+1061 0 obj
+<< /S /GoTo /D (subsubsection.25.4.4) >>
+endobj
+1064 0 obj
+(Tree Edges)
+endobj
+1065 0 obj
+<< /S /GoTo /D (subsection.25.5) >>
+endobj
+1068 0 obj
+(Adding Annotations)
+endobj
+1069 0 obj
+<< /S /GoTo /D (subsection.25.6) >>
+endobj
+1072 0 obj
+(Examples)
+endobj
+1073 0 obj
+<< /S /GoTo /D (section.26) >>
+endobj
+1076 0 obj
+(Pattern Library)
+endobj
+1077 0 obj
+<< /S /GoTo /D (section.27) >>
+endobj
+1080 0 obj
+(Petri-Net Drawing Library)
+endobj
+1081 0 obj
+<< /S /GoTo /D (subsection.27.1) >>
+endobj
+1084 0 obj
+(Places)
+endobj
+1085 0 obj
+<< /S /GoTo /D (subsection.27.2) >>
+endobj
+1088 0 obj
+(Transitions)
+endobj
+1089 0 obj
+<< /S /GoTo /D (subsection.27.3) >>
+endobj
+1092 0 obj
+(Tokens)
+endobj
+1093 0 obj
+<< /S /GoTo /D (section.28) >>
+endobj
+1096 0 obj
+(Plot Handler Library)
+endobj
+1097 0 obj
+<< /S /GoTo /D (subsection.28.1) >>
+endobj
+1100 0 obj
+(Curve Plot Handlers)
+endobj
+1101 0 obj
+<< /S /GoTo /D (subsection.28.2) >>
+endobj
+1104 0 obj
+(Comb Plot Handlers)
+endobj
+1105 0 obj
+<< /S /GoTo /D (subsection.28.3) >>
+endobj
+1108 0 obj
+(Mark Plot Handler)
+endobj
+1109 0 obj
+<< /S /GoTo /D (section.29) >>
+endobj
+1112 0 obj
+(Plot Mark Library)
+endobj
+1113 0 obj
+<< /S /GoTo /D (section.30) >>
+endobj
+1116 0 obj
+(Shape Library)
+endobj
+1117 0 obj
+<< /S /GoTo /D (subsection.30.1) >>
+endobj
+1120 0 obj
+(Geometric Shapes)
+endobj
+1121 0 obj
+<< /S /GoTo /D (subsection.30.2) >>
+endobj
+1124 0 obj
+(Symbol Shapes)
+endobj
+1125 0 obj
+<< /S /GoTo /D (subsection.30.3) >>
+endobj
+1128 0 obj
+(Shapes with Multiple Text Parts)
+endobj
+1129 0 obj
+<< /S /GoTo /D (subsection.30.4) >>
+endobj
+1132 0 obj
+(Miscellaneous Shapes)
+endobj
+1133 0 obj
+<< /S /GoTo /D (section.31) >>
+endobj
+1136 0 obj
+(Snake Library)
+endobj
+1137 0 obj
+<< /S /GoTo /D (section.32) >>
+endobj
+1140 0 obj
+(To Path Library)
+endobj
+1141 0 obj
+<< /S /GoTo /D (subsection.32.1) >>
+endobj
+1144 0 obj
+(Straight Lines)
+endobj
+1145 0 obj
+<< /S /GoTo /D (subsection.32.2) >>
+endobj
+1148 0 obj
+(Curves)
+endobj
+1149 0 obj
+<< /S /GoTo /D (subsection.32.3) >>
+endobj
+1152 0 obj
+(Loops)
+endobj
+1153 0 obj
+<< /S /GoTo /D (section.33) >>
+endobj
+1156 0 obj
+(Tree Library)
+endobj
+1157 0 obj
+<< /S /GoTo /D (subsection.33.1) >>
+endobj
+1160 0 obj
+(Growth Functions)
+endobj
+1161 0 obj
+<< /S /GoTo /D (subsection.33.2) >>
+endobj
+1164 0 obj
+(Edges From Parent)
+endobj
+1165 0 obj
+<< /S /GoTo /D (part.5) >>
+endobj
+1168 0 obj
+(V Utilities)
+endobj
+1169 0 obj
+<< /S /GoTo /D (section.34) >>
+endobj
+1172 0 obj
+(Repeating Things: The Foreach Statement)
+endobj
+1173 0 obj
+<< /S /GoTo /D (section.35) >>
+endobj
+1176 0 obj
+(Date and Calendar Utility Macros)
+endobj
+1177 0 obj
+<< /S /GoTo /D (subsection.35.1) >>
+endobj
+1180 0 obj
+(Handling Dates)
+endobj
+1181 0 obj
+<< /S /GoTo /D (subsubsection.35.1.1) >>
+endobj
+1184 0 obj
+(Conversions Between Date Types)
+endobj
+1185 0 obj
+<< /S /GoTo /D (subsubsection.35.1.2) >>
+endobj
+1188 0 obj
+(Checking Dates)
+endobj
+1189 0 obj
+<< /S /GoTo /D (subsubsection.35.1.3) >>
+endobj
+1192 0 obj
+(Typesetting Dates)
+endobj
+1193 0 obj
+<< /S /GoTo /D (subsubsection.35.1.4) >>
+endobj
+1196 0 obj
+(Localization)
+endobj
+1197 0 obj
+<< /S /GoTo /D (subsection.35.2) >>
+endobj
+1200 0 obj
+(Typesetting Calendars)
+endobj
+1201 0 obj
+<< /S /GoTo /D (section.36) >>
+endobj
+1204 0 obj
+(Page Management)
+endobj
+1205 0 obj
+<< /S /GoTo /D (subsection.36.1) >>
+endobj
+1208 0 obj
+(Basic Usage)
+endobj
+1209 0 obj
+<< /S /GoTo /D (subsection.36.2) >>
+endobj
+1212 0 obj
+(The Predefined Layouts)
+endobj
+1213 0 obj
+<< /S /GoTo /D (subsection.36.3) >>
+endobj
+1216 0 obj
+(Defining a Layout)
+endobj
+1217 0 obj
+<< /S /GoTo /D (subsection.36.4) >>
+endobj
+1220 0 obj
+(Creating Logical Pages)
+endobj
+1221 0 obj
+<< /S /GoTo /D (section.37) >>
+endobj
+1224 0 obj
+(Extended Color Support)
+endobj
+1225 0 obj
+<< /S /GoTo /D (part.6) >>
+endobj
+1228 0 obj
+(VI Mathematical Engine)
+endobj
+1229 0 obj
+<< /S /GoTo /D (section.38) >>
+endobj
+1232 0 obj
+(Design Principles)
+endobj
+1233 0 obj
+<< /S /GoTo /D (subsection.38.1) >>
+endobj
+1236 0 obj
+(Loading the Mathematical Engine)
+endobj
+1237 0 obj
+<< /S /GoTo /D (subsection.38.2) >>
+endobj
+1240 0 obj
+(Layers of the Mathematical Engine)
+endobj
+1241 0 obj
+<< /S /GoTo /D (subsection.38.3) >>
+endobj
+1244 0 obj
+(Efficiency and Accuracy of the Mathematical Engine)
+endobj
+1245 0 obj
+<< /S /GoTo /D (section.39) >>
+endobj
+1248 0 obj
+(Evaluating Mathematical Expressions)
+endobj
+1249 0 obj
+<< /S /GoTo /D (subsection.39.1) >>
+endobj
+1252 0 obj
+(Commands for Parsing Expressions)
+endobj
+1253 0 obj
+<< /S /GoTo /D (subsection.39.2) >>
+endobj
+1256 0 obj
+(Syntax for mathematical expressions)
+endobj
+1257 0 obj
+<< /S /GoTo /D (section.40) >>
+endobj
+1260 0 obj
+(Evaluating Mathematical Operations)
+endobj
+1261 0 obj
+<< /S /GoTo /D (subsection.40.1) >>
+endobj
+1264 0 obj
+(Basic Operations and Functions)
+endobj
+1265 0 obj
+<< /S /GoTo /D (subsection.40.2) >>
+endobj
+1268 0 obj
+(Trignometric Functions)
+endobj
+1269 0 obj
+<< /S /GoTo /D (subsection.40.3) >>
+endobj
+1272 0 obj
+(Pseudo-Random Numbers)
+endobj
+1273 0 obj
+<< /S /GoTo /D (subsection.40.4) >>
+endobj
+1276 0 obj
+(Conversion Between Bases)
+endobj
+1277 0 obj
+<< /S /GoTo /D (section.41) >>
+endobj
+1280 0 obj
+(Reimplementing the Computations of the Mathematical Engine)
+endobj
+1281 0 obj
+<< /S /GoTo /D (part.7) >>
+endobj
+1284 0 obj
+(VII The Basic Layer)
+endobj
+1285 0 obj
+<< /S /GoTo /D (section.42) >>
+endobj
+1288 0 obj
+(Design Principles)
+endobj
+1289 0 obj
+<< /S /GoTo /D (subsection.42.1) >>
+endobj
+1292 0 obj
+(Core and Optional Packages)
+endobj
+1293 0 obj
+<< /S /GoTo /D (subsection.42.2) >>
+endobj
+1296 0 obj
+(Communicating with the Basic Layer via Macros)
+endobj
+1297 0 obj
+<< /S /GoTo /D (subsection.42.3) >>
+endobj
+1300 0 obj
+(Path-Centered Approach)
+endobj
+1301 0 obj
+<< /S /GoTo /D (subsection.42.4) >>
+endobj
+1304 0 obj
+(Coordinate Versus Canvas Transformations)
+endobj
+1305 0 obj
+<< /S /GoTo /D (section.43) >>
+endobj
+1308 0 obj
+(Hierarchical Structures: Package, Environments, Scopes, and Text)
+endobj
+1309 0 obj
+<< /S /GoTo /D (subsection.43.1) >>
+endobj
+1312 0 obj
+(Overview)
+endobj
+1313 0 obj
+<< /S /GoTo /D (subsubsection.43.1.1) >>
+endobj
+1316 0 obj
+(The Hierarchical Structure of the Package)
+endobj
+1317 0 obj
+<< /S /GoTo /D (subsubsection.43.1.2) >>
+endobj
+1320 0 obj
+(The Hierarchical Structure of Graphics)
+endobj
+1321 0 obj
+<< /S /GoTo /D (subsection.43.2) >>
+endobj
+1324 0 obj
+(The Hierarchical Structure of the Package)
+endobj
+1325 0 obj
+<< /S /GoTo /D (subsubsection.43.2.1) >>
+endobj
+1328 0 obj
+(The Main Package)
+endobj
+1329 0 obj
+<< /S /GoTo /D (subsubsection.43.2.2) >>
+endobj
+1332 0 obj
+(The Core Package)
+endobj
+1333 0 obj
+<< /S /GoTo /D (subsubsection.43.2.3) >>
+endobj
+1336 0 obj
+(The Optional Basic Layer Packages)
+endobj
+1337 0 obj
+<< /S /GoTo /D (subsubsection.43.2.4) >>
+endobj
+1340 0 obj
+(The Library Packages)
+endobj
+1341 0 obj
+<< /S /GoTo /D (subsection.43.3) >>
+endobj
+1344 0 obj
+(The Hierarchical Structure of the Graphics)
+endobj
+1345 0 obj
+<< /S /GoTo /D (subsubsection.43.3.1) >>
+endobj
+1348 0 obj
+(The Main Environment)
+endobj
+1349 0 obj
+<< /S /GoTo /D (subsubsection.43.3.2) >>
+endobj
+1352 0 obj
+(Graphic Scope Environments)
+endobj
+1353 0 obj
+<< /S /GoTo /D (subsubsection.43.3.3) >>
+endobj
+1356 0 obj
+(Inserting Text and Images)
+endobj
+1357 0 obj
+<< /S /GoTo /D (section.44) >>
+endobj
+1360 0 obj
+(Specifying Coordinates)
+endobj
+1361 0 obj
+<< /S /GoTo /D (subsection.44.1) >>
+endobj
+1364 0 obj
+(Overview)
+endobj
+1365 0 obj
+<< /S /GoTo /D (subsection.44.2) >>
+endobj
+1368 0 obj
+(Basic Coordinate Commands)
+endobj
+1369 0 obj
+<< /S /GoTo /D (subsection.44.3) >>
+endobj
+1372 0 obj
+(Coordinates in the XY-Coordinate System)
+endobj
+1373 0 obj
+<< /S /GoTo /D (subsection.44.4) >>
+endobj
+1376 0 obj
+(Three Dimensional Coordinates)
+endobj
+1377 0 obj
+<< /S /GoTo /D (subsection.44.5) >>
+endobj
+1380 0 obj
+(Building Coordinates From Other Coordinates)
+endobj
+1381 0 obj
+<< /S /GoTo /D (subsubsection.44.5.1) >>
+endobj
+1384 0 obj
+(Basic Manipulations of Coordinates)
+endobj
+1385 0 obj
+<< /S /GoTo /D (subsubsection.44.5.2) >>
+endobj
+1388 0 obj
+(Points Traveling along Lines and Curves)
+endobj
+1389 0 obj
+<< /S /GoTo /D (subsubsection.44.5.3) >>
+endobj
+1392 0 obj
+(Points on Borders of Objects)
+endobj
+1393 0 obj
+<< /S /GoTo /D (subsubsection.44.5.4) >>
+endobj
+1396 0 obj
+(Points on the Intersection of Lines)
+endobj
+1397 0 obj
+<< /S /GoTo /D (subsection.44.6) >>
+endobj
+1400 0 obj
+(Extracting Coordinates)
+endobj
+1401 0 obj
+<< /S /GoTo /D (subsection.44.7) >>
+endobj
+1404 0 obj
+(Internals of How Point Commands Work)
+endobj
+1405 0 obj
+<< /S /GoTo /D (section.45) >>
+endobj
+1408 0 obj
+(Constructing Paths)
+endobj
+1409 0 obj
+<< /S /GoTo /D (subsection.45.1) >>
+endobj
+1412 0 obj
+(Overview)
+endobj
+1413 0 obj
+<< /S /GoTo /D (subsection.45.2) >>
+endobj
+1416 0 obj
+(The Move-To Path Operation)
+endobj
+1417 0 obj
+<< /S /GoTo /D (subsection.45.3) >>
+endobj
+1420 0 obj
+(The Line-To Path Operation)
+endobj
+1421 0 obj
+<< /S /GoTo /D (subsection.45.4) >>
+endobj
+1424 0 obj
+(The Curve-To Path Operation)
+endobj
+1425 0 obj
+<< /S /GoTo /D (subsection.45.5) >>
+endobj
+1428 0 obj
+(The Close Path Operation)
+endobj
+1429 0 obj
+<< /S /GoTo /D (subsection.45.6) >>
+endobj
+1432 0 obj
+(Arc, Ellipse and Circle Path Operations)
+endobj
+1433 0 obj
+<< /S /GoTo /D (subsection.45.7) >>
+endobj
+1436 0 obj
+(Rectangle Path Operations)
+endobj
+1437 0 obj
+<< /S /GoTo /D (subsection.45.8) >>
+endobj
+1440 0 obj
+(The Grid Path Operation)
+endobj
+1441 0 obj
+<< /S /GoTo /D (subsection.45.9) >>
+endobj
+1444 0 obj
+(The Parabola Path Operation)
+endobj
+1445 0 obj
+<< /S /GoTo /D (subsection.45.10) >>
+endobj
+1448 0 obj
+(Sine and Cosine Path Operations)
+endobj
+1449 0 obj
+<< /S /GoTo /D (subsection.45.11) >>
+endobj
+1452 0 obj
+(Plot Path Operations)
+endobj
+1453 0 obj
+<< /S /GoTo /D (subsection.45.12) >>
+endobj
+1456 0 obj
+(Rounded Corners)
+endobj
+1457 0 obj
+<< /S /GoTo /D (subsection.45.13) >>
+endobj
+1460 0 obj
+(Internal Tracking of Bounding Boxes for Paths and Pictures)
+endobj
+1461 0 obj
+<< /S /GoTo /D (section.46) >>
+endobj
+1464 0 obj
+(Snakes)
+endobj
+1465 0 obj
+<< /S /GoTo /D (subsection.46.1) >>
+endobj
+1468 0 obj
+(Overview)
+endobj
+1469 0 obj
+<< /S /GoTo /D (subsection.46.2) >>
+endobj
+1472 0 obj
+(Declaring a Snake)
+endobj
+1473 0 obj
+<< /S /GoTo /D (subsubsection.46.2.1) >>
+endobj
+1476 0 obj
+(Segments)
+endobj
+1477 0 obj
+<< /S /GoTo /D (subsubsection.46.2.2) >>
+endobj
+1480 0 obj
+(Snake Automata)
+endobj
+1481 0 obj
+<< /S /GoTo /D (subsubsection.46.2.3) >>
+endobj
+1484 0 obj
+(The Snake Declaration Command)
+endobj
+1485 0 obj
+<< /S /GoTo /D (subsubsection.46.2.4) >>
+endobj
+1488 0 obj
+(Predefined Snakes)
+endobj
+1489 0 obj
+<< /S /GoTo /D (subsection.46.3) >>
+endobj
+1492 0 obj
+(Using Snakes)
+endobj
+1493 0 obj
+<< /S /GoTo /D (section.47) >>
+endobj
+1496 0 obj
+(Using Paths)
+endobj
+1497 0 obj
+<< /S /GoTo /D (subsection.47.1) >>
+endobj
+1500 0 obj
+(Overview)
+endobj
+1501 0 obj
+<< /S /GoTo /D (subsection.47.2) >>
+endobj
+1504 0 obj
+(Stroking a Path)
+endobj
+1505 0 obj
+<< /S /GoTo /D (subsubsection.47.2.1) >>
+endobj
+1508 0 obj
+(Graphic Parameter: Line Width)
+endobj
+1509 0 obj
+<< /S /GoTo /D (subsubsection.47.2.2) >>
+endobj
+1512 0 obj
+(Graphic Parameter: Caps and Joins)
+endobj
+1513 0 obj
+<< /S /GoTo /D (subsubsection.47.2.3) >>
+endobj
+1516 0 obj
+(Graphic Parameter: Dashing)
+endobj
+1517 0 obj
+<< /S /GoTo /D (subsubsection.47.2.4) >>
+endobj
+1520 0 obj
+(Graphic Parameter: Stroke Color)
+endobj
+1521 0 obj
+<< /S /GoTo /D (subsubsection.47.2.5) >>
+endobj
+1524 0 obj
+(Graphic Parameter: Stroke Opacity)
+endobj
+1525 0 obj
+<< /S /GoTo /D (subsubsection.47.2.6) >>
+endobj
+1528 0 obj
+(Graphic Parameter: Arrows)
+endobj
+1529 0 obj
+<< /S /GoTo /D (subsection.47.3) >>
+endobj
+1532 0 obj
+(Filling a Path)
+endobj
+1533 0 obj
+<< /S /GoTo /D (subsubsection.47.3.1) >>
+endobj
+1536 0 obj
+(Graphic Parameter: Interior Rule)
+endobj
+1537 0 obj
+<< /S /GoTo /D (subsubsection.47.3.2) >>
+endobj
+1540 0 obj
+(Graphic Parameter: Filling Color)
+endobj
+1541 0 obj
+<< /S /GoTo /D (subsubsection.47.3.3) >>
+endobj
+1544 0 obj
+(Graphic Parameter: Fill Opacity)
+endobj
+1545 0 obj
+<< /S /GoTo /D (subsection.47.4) >>
+endobj
+1548 0 obj
+(Clipping a Path)
+endobj
+1549 0 obj
+<< /S /GoTo /D (subsection.47.5) >>
+endobj
+1552 0 obj
+(Using a Path as a Bounding Box)
+endobj
+1553 0 obj
+<< /S /GoTo /D (section.48) >>
+endobj
+1556 0 obj
+(Arrow Tips)
+endobj
+1557 0 obj
+<< /S /GoTo /D (subsection.48.1) >>
+endobj
+1560 0 obj
+(Overview)
+endobj
+1561 0 obj
+<< /S /GoTo /D (subsubsection.48.1.1) >>
+endobj
+1564 0 obj
+(When Does PGF Draw Arrow Tips?)
+endobj
+1565 0 obj
+<< /S /GoTo /D (subsubsection.48.1.2) >>
+endobj
+1568 0 obj
+(Meta-Arrow Tips)
+endobj
+1569 0 obj
+<< /S /GoTo /D (subsection.48.2) >>
+endobj
+1572 0 obj
+(Declaring an Arrow Tip Kind)
+endobj
+1573 0 obj
+<< /S /GoTo /D (subsection.48.3) >>
+endobj
+1576 0 obj
+(Declaring a Derived Arrow Tip Kind)
+endobj
+1577 0 obj
+<< /S /GoTo /D (subsection.48.4) >>
+endobj
+1580 0 obj
+(Using an Arrow Tip Kind)
+endobj
+1581 0 obj
+<< /S /GoTo /D (subsection.48.5) >>
+endobj
+1584 0 obj
+(Predefined Arrow Tip Kinds)
+endobj
+1585 0 obj
+<< /S /GoTo /D (section.49) >>
+endobj
+1588 0 obj
+(Nodes and Shapes)
+endobj
+1589 0 obj
+<< /S /GoTo /D (subsection.49.1) >>
+endobj
+1592 0 obj
+(Overview)
+endobj
+1593 0 obj
+<< /S /GoTo /D (subsubsection.49.1.1) >>
+endobj
+1596 0 obj
+(Creating and Referencing Nodes)
+endobj
+1597 0 obj
+<< /S /GoTo /D (subsubsection.49.1.2) >>
+endobj
+1600 0 obj
+(Anchors)
+endobj
+1601 0 obj
+<< /S /GoTo /D (subsubsection.49.1.3) >>
+endobj
+1604 0 obj
+(Layers of a Shape)
+endobj
+1605 0 obj
+<< /S /GoTo /D (subsubsection.49.1.4) >>
+endobj
+1608 0 obj
+(Node Parts)
+endobj
+1609 0 obj
+<< /S /GoTo /D (subsection.49.2) >>
+endobj
+1612 0 obj
+(Creating Nodes)
+endobj
+1613 0 obj
+<< /S /GoTo /D (subsection.49.3) >>
+endobj
+1616 0 obj
+(Using Anchors)
+endobj
+1617 0 obj
+<< /S /GoTo /D (subsubsection.49.3.1) >>
+endobj
+1620 0 obj
+(Referencing Anchors of Nodes in the Same Picture)
+endobj
+1621 0 obj
+<< /S /GoTo /D (subsubsection.49.3.2) >>
+endobj
+1624 0 obj
+(Referencing Anchors of Nodes in Different Pictures)
+endobj
+1625 0 obj
+<< /S /GoTo /D (subsection.49.4) >>
+endobj
+1628 0 obj
+(Predefined Nodes)
+endobj
+1629 0 obj
+<< /S /GoTo /D (subsection.49.5) >>
+endobj
+1632 0 obj
+(Declaring New Shapes)
+endobj
+1633 0 obj
+<< /S /GoTo /D (subsubsection.49.5.1) >>
+endobj
+1636 0 obj
+(What Must Be Defined For a Shape?)
+endobj
+1637 0 obj
+<< /S /GoTo /D (subsubsection.49.5.2) >>
+endobj
+1640 0 obj
+(Normal Anchors Versus Saved Anchors)
+endobj
+1641 0 obj
+<< /S /GoTo /D (subsubsection.49.5.3) >>
+endobj
+1644 0 obj
+(Command for Declaring New Shapes)
+endobj
+1645 0 obj
+<< /S /GoTo /D (subsection.49.6) >>
+endobj
+1648 0 obj
+(Predefined Shapes)
+endobj
+1649 0 obj
+<< /S /GoTo /D (section.50) >>
+endobj
+1652 0 obj
+(Matrices)
+endobj
+1653 0 obj
+<< /S /GoTo /D (subsection.50.1) >>
+endobj
+1656 0 obj
+(Overview)
+endobj
+1657 0 obj
+<< /S /GoTo /D (subsection.50.2) >>
+endobj
+1660 0 obj
+(Cell Pictures and Their Alignment)
+endobj
+1661 0 obj
+<< /S /GoTo /D (subsection.50.3) >>
+endobj
+1664 0 obj
+(The Matrix Command)
+endobj
+1665 0 obj
+<< /S /GoTo /D (subsection.50.4) >>
+endobj
+1668 0 obj
+(Row and Column Spacing)
+endobj
+1669 0 obj
+<< /S /GoTo /D (subsection.50.5) >>
+endobj
+1672 0 obj
+(Callbacks)
+endobj
+1673 0 obj
+<< /S /GoTo /D (section.51) >>
+endobj
+1676 0 obj
+(Coordinate and Canvas Transformations)
+endobj
+1677 0 obj
+<< /S /GoTo /D (subsection.51.1) >>
+endobj
+1680 0 obj
+(Overview)
+endobj
+1681 0 obj
+<< /S /GoTo /D (subsection.51.2) >>
+endobj
+1684 0 obj
+(Coordinate Transformations)
+endobj
+1685 0 obj
+<< /S /GoTo /D (subsubsection.51.2.1) >>
+endobj
+1688 0 obj
+(How PGF Keeps Track of the Coordinate Transformation Matrix)
+endobj
+1689 0 obj
+<< /S /GoTo /D (subsubsection.51.2.2) >>
+endobj
+1692 0 obj
+(Commands for Relative Coordinate Transformations)
+endobj
+1693 0 obj
+<< /S /GoTo /D (subsubsection.51.2.3) >>
+endobj
+1696 0 obj
+(Commands for Absolute Coordinate Transformations)
+endobj
+1697 0 obj
+<< /S /GoTo /D (subsubsection.51.2.4) >>
+endobj
+1700 0 obj
+(Saving and Restoring the Coordinate Transformation Matrix)
+endobj
+1701 0 obj
+<< /S /GoTo /D (subsection.51.3) >>
+endobj
+1704 0 obj
+(Canvas Transformations)
+endobj
+1705 0 obj
+<< /S /GoTo /D (section.52) >>
+endobj
+1708 0 obj
+(Patterns)
+endobj
+1709 0 obj
+<< /S /GoTo /D (subsection.52.1) >>
+endobj
+1712 0 obj
+(Overview)
+endobj
+1713 0 obj
+<< /S /GoTo /D (subsection.52.2) >>
+endobj
+1716 0 obj
+(Declaring a Pattern)
+endobj
+1717 0 obj
+<< /S /GoTo /D (subsection.52.3) >>
+endobj
+1720 0 obj
+(Setting a Pattern)
+endobj
+1721 0 obj
+<< /S /GoTo /D (section.53) >>
+endobj
+1724 0 obj
+(Declaring and Using Images)
+endobj
+1725 0 obj
+<< /S /GoTo /D (subsection.53.1) >>
+endobj
+1728 0 obj
+(Overview)
+endobj
+1729 0 obj
+<< /S /GoTo /D (subsection.53.2) >>
+endobj
+1732 0 obj
+(Declaring an Image)
+endobj
+1733 0 obj
+<< /S /GoTo /D (subsection.53.3) >>
+endobj
+1736 0 obj
+(Using an Image)
+endobj
+1737 0 obj
+<< /S /GoTo /D (subsection.53.4) >>
+endobj
+1740 0 obj
+(Masking an Image)
+endobj
+1741 0 obj
+<< /S /GoTo /D (section.54) >>
+endobj
+1744 0 obj
+(Externalizing Graphics)
+endobj
+1745 0 obj
+<< /S /GoTo /D (subsection.54.1) >>
+endobj
+1748 0 obj
+(Overview)
+endobj
+1749 0 obj
+<< /S /GoTo /D (subsection.54.2) >>
+endobj
+1752 0 obj
+(Workflow Step 1: Naming Graphics)
+endobj
+1753 0 obj
+<< /S /GoTo /D (subsection.54.3) >>
+endobj
+1756 0 obj
+(Workflow Step 2: Generating the External Graphics)
+endobj
+1757 0 obj
+<< /S /GoTo /D (subsection.54.4) >>
+endobj
+1760 0 obj
+(Workflow Step 3: Including the External Graphics)
+endobj
+1761 0 obj
+<< /S /GoTo /D (subsection.54.5) >>
+endobj
+1764 0 obj
+(A Complete Example)
+endobj
+1765 0 obj
+<< /S /GoTo /D (section.55) >>
+endobj
+1768 0 obj
+(Declaring and Using Shadings)
+endobj
+1769 0 obj
+<< /S /GoTo /D (subsection.55.1) >>
+endobj
+1772 0 obj
+(Overview)
+endobj
+1773 0 obj
+<< /S /GoTo /D (subsection.55.2) >>
+endobj
+1776 0 obj
+(Declaring Shadings)
+endobj
+1777 0 obj
+<< /S /GoTo /D (subsection.55.3) >>
+endobj
+1780 0 obj
+(Using Shadings)
+endobj
+1781 0 obj
+<< /S /GoTo /D (section.56) >>
+endobj
+1784 0 obj
+(Creating Plots)
+endobj
+1785 0 obj
+<< /S /GoTo /D (subsection.56.1) >>
+endobj
+1788 0 obj
+(Overview)
+endobj
+1789 0 obj
+<< /S /GoTo /D (subsection.56.2) >>
+endobj
+1792 0 obj
+(Generating Plot Streams)
+endobj
+1793 0 obj
+<< /S /GoTo /D (subsubsection.56.2.1) >>
+endobj
+1796 0 obj
+(Basic Building Blocks of Plot Streams)
+endobj
+1797 0 obj
+<< /S /GoTo /D (subsubsection.56.2.2) >>
+endobj
+1800 0 obj
+(Commands That Generate Plot Streams)
+endobj
+1801 0 obj
+<< /S /GoTo /D (subsection.56.3) >>
+endobj
+1804 0 obj
+(Plot Handlers)
+endobj
+1805 0 obj
+<< /S /GoTo /D (section.57) >>
+endobj
+1808 0 obj
+(Layered Graphics)
+endobj
+1809 0 obj
+<< /S /GoTo /D (subsection.57.1) >>
+endobj
+1812 0 obj
+(Overview)
+endobj
+1813 0 obj
+<< /S /GoTo /D (subsection.57.2) >>
+endobj
+1816 0 obj
+(Declaring Layers)
+endobj
+1817 0 obj
+<< /S /GoTo /D (subsection.57.3) >>
+endobj
+1820 0 obj
+(Using Layers)
+endobj
+1821 0 obj
+<< /S /GoTo /D (section.58) >>
+endobj
+1824 0 obj
+(Quick Commands)
+endobj
+1825 0 obj
+<< /S /GoTo /D (subsection.58.1) >>
+endobj
+1828 0 obj
+(Quick Coordiante Commands)
+endobj
+1829 0 obj
+<< /S /GoTo /D (subsection.58.2) >>
+endobj
+1832 0 obj
+(Quick Path Construction Commands)
+endobj
+1833 0 obj
+<< /S /GoTo /D (subsection.58.3) >>
+endobj
+1836 0 obj
+(Quick Path Usage Commands)
+endobj
+1837 0 obj
+<< /S /GoTo /D (subsection.58.4) >>
+endobj
+1840 0 obj
+(Quick Text Box Commands)
+endobj
+1841 0 obj
+<< /S /GoTo /D (part.8) >>
+endobj
+1844 0 obj
+(VIII The System Layer)
+endobj
+1845 0 obj
+<< /S /GoTo /D (section.59) >>
+endobj
+1848 0 obj
+(Design of the System Layer)
+endobj
+1849 0 obj
+<< /S /GoTo /D (subsection.59.1) >>
+endobj
+1852 0 obj
+(Driver Files)
+endobj
+1853 0 obj
+<< /S /GoTo /D (subsection.59.2) >>
+endobj
+1856 0 obj
+(Common Definition Files)
+endobj
+1857 0 obj
+<< /S /GoTo /D (section.60) >>
+endobj
+1860 0 obj
+(Commands of the System Layer)
+endobj
+1861 0 obj
+<< /S /GoTo /D (subsection.60.1) >>
+endobj
+1864 0 obj
+(Beginning and Ending a Stream of System Commands)
+endobj
+1865 0 obj
+<< /S /GoTo /D (subsection.60.2) >>
+endobj
+1868 0 obj
+(Path Construction System Commands)
+endobj
+1869 0 obj
+<< /S /GoTo /D (subsection.60.3) >>
+endobj
+1872 0 obj
+(Canvas Transformation System Commands)
+endobj
+1873 0 obj
+<< /S /GoTo /D (subsection.60.4) >>
+endobj
+1876 0 obj
+(Stroking, Filling, and Clipping System Commands)
+endobj
+1877 0 obj
+<< /S /GoTo /D (subsection.60.5) >>
+endobj
+1880 0 obj
+(Graphic State Option System Commands)
+endobj
+1881 0 obj
+<< /S /GoTo /D (subsection.60.6) >>
+endobj
+1884 0 obj
+(Color System Commands)
+endobj
+1885 0 obj
+<< /S /GoTo /D (subsection.60.7) >>
+endobj
+1888 0 obj
+(Pattern System Commands)
+endobj
+1889 0 obj
+<< /S /GoTo /D (subsection.60.8) >>
+endobj
+1892 0 obj
+(Scoping System Commands)
+endobj
+1893 0 obj
+<< /S /GoTo /D (subsection.60.9) >>
+endobj
+1896 0 obj
+(Image System Commands)
+endobj
+1897 0 obj
+<< /S /GoTo /D (subsection.60.10) >>
+endobj
+1900 0 obj
+(Shading System Commands)
+endobj
+1901 0 obj
+<< /S /GoTo /D (subsection.60.11) >>
+endobj
+1904 0 obj
+(Reusable Objects System Commands)
+endobj
+1905 0 obj
+<< /S /GoTo /D (subsection.60.12) >>
+endobj
+1908 0 obj
+(Invisibility System Commands)
+endobj
+1909 0 obj
+<< /S /GoTo /D (subsection.60.13) >>
+endobj
+1912 0 obj
+(Position Tracking Commands)
+endobj
+1913 0 obj
+<< /S /GoTo /D (subsection.60.14) >>
+endobj
+1916 0 obj
+(Internal Conversion Commands)
+endobj
+1917 0 obj
+<< /S /GoTo /D (section.61) >>
+endobj
+1920 0 obj
+(The Soft Path Subsystem)
+endobj
+1921 0 obj
+<< /S /GoTo /D (subsection.61.1) >>
+endobj
+1924 0 obj
+(Path Creation Process)
+endobj
+1925 0 obj
+<< /S /GoTo /D (subsection.61.2) >>
+endobj
+1928 0 obj
+(Starting and Ending a Soft Path)
+endobj
+1929 0 obj
+<< /S /GoTo /D (subsection.61.3) >>
+endobj
+1932 0 obj
+(Soft Path Creation Commands)
+endobj
+1933 0 obj
+<< /S /GoTo /D (subsection.61.4) >>
+endobj
+1936 0 obj
+(The Soft Path Data Structure)
+endobj
+1937 0 obj
+<< /S /GoTo /D (section.62) >>
+endobj
+1940 0 obj
+(The Protocol Subsystem)
+endobj
+1941 0 obj
+<< /S /GoTo /D (part.9) >>
+endobj
+1944 0 obj
+(IX References and Index)
+endobj
+1945 0 obj
+<< /S /GoTo /D (section*.3) >>
+endobj
+1948 0 obj
+(Index)
+endobj
+1949 0 obj
+<< /S /GoTo /D [1950 0 R  /Fit ] >>
+endobj
+1952 0 obj <<
+/Length 12072     
+/Filter /FlateDecode
+>>
+stream
+xÚµ}K³·‘æ¿âöŠP…GLh1îh+Â³`›«ÑxA_^Ró2%Kãqè¿O>TÕ}¹ÕÑnûd!B‰ù\oŞß¬7ß¾Xwÿûû×/~÷‡Pob¾ÔVÃÍëw7%ÁŸğßáÒËÍë·7ß½|ıá«?¿ş#<×üs1^jÚ€=ó×ñÈÄ*¤K‹Qùß_-i/ß|z;íS·Û¥@ëñìïßñCq½	ù’r‰øĞÖx	5ÃõÒSä‡ÿ×›O_Åúòïo>B±¼|÷ùÿñ3’ï¾üøáó'&„KhÈ÷E€÷ğşò¿ÿñúÅßàÇ
+ÿÆÄ/Æv{}äÃ¥u Çõ²ÕíæËİÍ»¯”Á~b…W€÷ÚB¹ÉkºÄ­#·¿İÀSßŞĞ£/ÖKêm»ùåÉ¯è¿a}ÛÒÂÍ‰T.%†šnÖËzsµŸéRjî]ÿ×?&ßŞ¼Xöÿ¾ì,¾%¶Ğ'õ‰ÓG×Ëá]'ßãÛ¯òNïÆ»3ÿßÿ}{½™çí•üÑ\ÿç·ò×—÷D^|±5•#€ÅÌóu"Çv‰©y5V·5 møòş
+í’ã–££áÔÀºë:‘ñ¯5×°y–FÓŞ©¹‘ae4~TY¦vÙÒV|çBÂÆ6L{Ğ^Rù¼8Ï·gë¦ä›F}ññHÆ%ûÈg9û ¯ŒáàgìøËİ3\.1`ÿåk$R¾l=5ØöíÒs1ÁD`—+[¬øÇÛ»Â–J)Ú%çˆ’iâpaJÉ<O%”Ôˆô¶V\®@M-v@İ2H=$­…º¨0¦Ò‘´Â0[c»l©¯Öá» ÇzÙVX@M~Âa¤¸–B¤\¶¤ß>7`"|µ
+òò–Û†P`7…rFÛ¥öœQsO[7 KØ.­Ä10Œ$#a†`,,``ød¿”{â½ _±ÕBÔ8ò‚Ê°´­ƒ]Z-k‰$wCÉ+²Ã“¥ZÀiİ‚î¯ÔV|#™Ş_wëŠkæmk™çjãåÚAÀÇÌ<aD&·>ÈhD!‘CYS
+=
+ì7X5<1ğI¹ó-®-éÆ©™wåÖ×•>ĞŸ”Ñ3±[F¶­¾á{†X½HØ6\)±í¤Ç+xy)t²¬Á³4Ú$=Yw»±T¡`{éaÃÔİK*¿“ÒÃ±½_zğC¿ôüÒã|08­÷üë?ÑZIñ’×²6%ÃaÛ‰K¿ìÜ¬®1lÆ–‚16å?¯T "\©D…O<‘BƒUÙ{â¿¤5ìØØ‡pJù²†^±ûØ`İWXõp…—Âçh0,×vã›ÃFJ¤q-—‰ZÀd .‡¨­x+HâŠFØ@(Ü¸æ±£î¼ ˆ’5­™ºMpÆó¤gƒÇZ×•–«Ñ ßpGÚ:¢ ‰¬dx¿éğÊ Óä N™D,Îõ†bÒÓ`ëŠòÙZÃGÁ¹ñ¬f<Jâ}“6xæŠÒ ×FÓ²òiâh+¼uÂ“ÈšãR(-ò¬f ¡yMkÅ
+ D]×ò·ˆ–„ÒP|ã1Ğğd¸NäÓy‘àØ`İÃÓ
+~”¸¯B‚FZ¦ÇzÂ/†BXyI{¥¶FFÙğuŒˆëÖ0u¬4:Wt„îQ{?eyòÎCªc?;©‚5iÜŸ Uî›'YOc9$Ëù€Pön¹Áßcá…YàÄ+¾a¬x¸¯JkÂS8ÂŞé¬†{,M¢ÔXp·âM#Z­pn•\‡”‡¯lDNÎ=æ	 zëˆ@ÈÕµàiXğTùd[G^påè¸ğñ¨, ;3íğxünVW&Ç€ëÎpŠà˜‘	Ì&Ä]‘(p’2R…£½3Ç
+ò-U:Ô¡íoÿ
+b³Ò:€öî2Àh!u:!AÎÆ‚D]^„iåtXƒùÀ±¿v<Ë¡9BU@†­X2ìf9ÀøRÁ;pÈeÅÃ •a,`EØRÌÌ Uc		µ®0ÓĞs"ğ0òª0}	? À†½Ù#0ŒÄòÖ4ıCBtÅB¥v<-
+C­˜‡V ~0”>àÅû®}`·ÜÇ§o¸ó
+A¼ŠS–©¼«Ã^ù¿xqO$•1 Æàğè»sĞÈ†5‚ã’Ç$pù)ö—Ÿ0>ôtùé¸\á=ei´	¾8²Âc©¨Ä:÷ğÅ†©º—T~'/>c{?|¡‡_öIœØ= Íùğ–Ôº'Ãü·:Y4@¤AG’ G@ã{@ƒÛ¼v:® * 
+šw4¦€Æµö€¶ya•w€$Ø-{@ãh
+h\sh`ë—cÛ Ã¸·ä£) ±æ -™yéx<ƒ5÷˜=q4Á3Úx‚3 bŞ¨wg€
+³Ö7gMáŒµàLƒoSQwp¦¡h£kšÁGS8cÍ'8Ó`€qM4£Z<F/›@õñëj¶„]mj2_%ãœfÈp †Š'„ºJ›‘=jˆÅXM{ŸÁÍ†À˜U–Ş­Ã|ïJ›Á{ÔŞSY¼ûÜøY¹Üğ#O»2İû- ÇØ Îô©à 0M[¨C1
+Üé™ÀaZP]`¯ 'òCG@ÛPqËBŠ
+\` -¼P&¡ş¦!°0È´ ‚êÆ#è:7Ôˆì"ˆ’a¾à‹g‘]e2HâD—Z<Ğyˆü4JtÆô,’k ¸U´\Š®e2ªÙÖÎ‚k@è§®-ô‡°£¸m›€¦OrF•Fn"¸”u
+é*ò@ÿ upºeR‹8|’qš¡_fªHúêğ¡YpÄÁ›â÷2p¯cŸIJFô\™©BêkÅSÄ O&¥ÎA#¼å”ÚİàÎmÇù'§Ë••ì€;ı)B,F|‚¶Tö]'*ÜA@ô’€ -ğ›nõ×®ÉğîÛ:Ñè]Äİ£09¹FZÖÊÒÑ¤sjndÔø¡ÎÒ±„EÇíí]it‰ÖºGõ}”ãñÅ‡„1¶~Jv†’'z{ºç38Ãlë/çC"è»¨ğfn[ãUŠÊ»À
+–Ç;ZÈ°bq{âÊ!±n=´xa<°İ;Ñ`·oLKpğârï¡ñ§ÜtõÒ•(¡¡å_kïCí´z#^DPpÑ+f¦(¼TP'IªãŒêbÔYH¤ÌŠ‚FZ]¼ãeeHJ ‹:]q ¼õkk‹ à'Şfğ&e–"@¬Lä[’õP)DÔCå
+§4Ö¤ÔHcÏ|7Ã[çÚQ½¡T/ªîÚBB•4ş^´C¯Û€`&‡¦”]¹¨«mŒ´"ÔÂé£/âÂ\ÃZ°+<.[z²¼‘N¦¯RÂ$	Å)	äZ#…·Ş2Â_ .Œ¢F["¯ğıûà¿m¨^×¡$ÊÕ5Ğ;\Áªn*ÀR‘¶ô¶b¯N3#À\V·ı1 ä!ŠvÀJ ÈB,>È ·ÚHã²ÁÁÓ_K
+ã]¾Š~¸ºÇàÔ
+ªfŒ›Ñ´ã[–äBÆµFß[6Z7¸Ôµc%ãvŒĞ=i/¨O^zÈãëfc'bø™ñH|’Œyø;893xë!hNÇ…;; ¶ßH|ÂÛ‹(ûÒÊ†¥ªãf:@ú•È€d¬ ­Ô–†*„t ú¶ò{âÍ¤Š0ƒè`²_‡^04XÅTè¼¹cJ¸N¶¦-³ö=Ã P×©çq˜Ã+ +}âĞlŒ\«…²"pp³¶Nz8¹áNÇÖØf™:Je. ¶Äk2£-gŒv'ÜâZ¤Q„`¥Ì¸ ^
+Â7¢hà×©<l5€Ñ¾PıÄ—°äit¡Ã{fHlè¨Ã~zØÀ¾†ş*ël@®­|ar@íŠĞªCLq“2
+L®´ã­m¼¥âŠãØPçC8ôw½’Åê¶°j2æ¡Oƒ‡ûZ×2z"›gAô_çà{#S4ºÀkğÜEfCKGH®Së²F>`şt 2¦p„‘)‘jóF&VG¬¥à;ëîÎj5şÃâiÎÈ4=Ê–#ÏP)Ò³˜€ˆà¸líÆ1Cç‹§gòÑ™˜æ‡İÛ(×“ŸLe’{ŒLüÈs Í½Ÿãhr2æ³É©ì¿ÖŠ p[»ã©Kd<sá« ` .ÔZ6ZÇ°»¶ÍËïSÛxgçNàhN0¦E:†u$“SEEÓ6.¿!ñÖ­á¼âNkaØ'8^çaÕ6²¨ìÀ*)oeÜ±ñÆÑè°„•»<¦pıØèR÷ƒ
+è¾°!„œ€;ÉÔy¤OxßÆ%"*k(¢Ú¸æ `Íèƒä÷¹H¸¥BÚèQ:Ê=„7lĞ0" i+ü‰ÇdCóù:ndÀ Íë¬Øhpë|e{'Ÿ£+ôŸ	Ë”@W?èÀa¯÷NÀ8ØD
+QÙƒ13pBf’ÂÈ¡ûó×
+C8„›jÜ79"º`ğ‘Ÿaá¢Q­„WğŞèŠK*=ŠW3’Ü n#•wÍpaN7Ú×°X…¿WWÓÌ”Ã*¬+s[/Q½Âm3á'µ»IÏhaoÙ_c”6_¢ìQ»K£Yïó-
+QXxôõiX+|¥5? #Î)ÿ°½«r=yÿÃ]jššóËÔxäé*â?ÌáVåØ®U»gKR Èğºx­Ahä.äÒéæDŠÑŠ7,´ù®mİÓàâ¾×œfy£+|û.tÂ®ûbÖÈ$‹P5¢.ìh°±£o>¸&¨…U	€9º¾Bí„‹I9Ç¸bÜfúÕT<M´ù°¥·F÷Ä‡!U˜	”¡r4÷Îã W·‰†²‡îPÚ|pqYys®ë–tÖB–gÜ³ëZØ–N¾(@Näêµ,Q©‚¡’QÿÊÓò0³	puã‘V`„0rTÒÖƒi^7:®†âRL+êˆ€Ëe¥ƒ˜Â!"Ôh¨2ë%»Ö·Óbë	AUİNU8n¥Ë¯!~Ì	ÑéŒ(Úu'T9NŠ›ã3Ë‘Ñrìpòpt*a§ŠêÒkkùœö7œĞÑ¬ÏUÏÜ3Å¯<Ë½jæ0ôŒÂµSwJ™€Î¯%v§U!rB¥fé^ğÖ¿â±eŠôüMtPÎ-»†Á}!G§Uc¥†áÒ10·¹¡˜¢=ä¶F Ct:ì†–àëg§V®mx!Û¼}ãbNÍ)jĞW²•J‡ıïrx¯S­
+ûßm	—¾©_Ğ™.À1´4Ø	‹ä:ìuXàşÕœJ…½A’´è•/¨_¥ÛªhĞDE>eC•Ãkîs=8e
+]ipÇ#–0µºózÌ´3hJj¹;5)b`ã÷5™"å:ºi¨00Šò"3ÅHNj_UáŒí¹­ı~Œãö{/&¦³N©
+(tG*ì 5>a“ã3Ë‘ÑrÒã$(<‚††4¨×	œ<tÂë¼WÀõyäá	Ÿ„Æy‡Â‚Ñ¡÷KŒ3Ö@\ÑFj¨â”´oz‹MáÖŠ İ£T€QÓğÄ)ißôËs%Ç(/ğŞªGÊ±!qƒ„c÷¸‚‚»GÊ±!pƒ-èı2á	¼5‘a‡Ò±)ñë[JyÆ0+9¥	IœMi!gV³xê.‡†”cÃÛ±tØAïèq›6!¹`şóşî¨¢ß0§zU‚˜Ã¹W—˜S½=¨ôÊÎ‘œÂÂQEµaìLbOê¢‘İ›Ç“WfalïW•ˆ3ÿ35%}…WÇX½ªä|dêÙïõ$ê¢¯z"O~Uˆ¨·¿ªM4(@Ô+0)ê¯
+:4†¿(BÔÕ_µ% j`¦ùªÙ fêÁ¯uóW5‰†¨>—Šúå«NãŠ}°ÿ¾¨>ÔÃ_õ#	 Šd¦ùªÊ¸Òj®ûªôPUh €êPx°/¾j1:í‹ºÃ\ûU'¢1 ª<Avê…¯ú‹ëè„Ü¨UÓanıª±  UŒMJz±‡4ãJí.Øƒ2d‡ù9sÕc¾dbªQ‡oÑ1o7!šOœò2’·©8ªX_&w<6ÒX¯Şœã<İôAçÇÜoÊÃ±¼×’ÃÏ<Ëóøì{™1:Ø[sÎÇÆA@“%G‚€ÌCÄ$&R³Ä ™ı‡%8Ç ™†wÒˆRk‹£Æ ©õ‡W*‡ ©ı…·Òˆ R;E ©9G#€ÌğÃ›‰#€Ìørå-F^Åj¤± µåhY}¡D ™áåJÔ¤& RCÆÿ˜É‡2ÿ1³Êş#öşQ#ÿ˜¹Jì™\®D¡?jœ±Èµáhà{xÇqÜÏ‰µÆ4iÓ_Cl°j²H¤¢ü|?””›Bù¡"Ù|æPNf{ˆ•¦èPÂÔßzÛPË¡'ˆ©ãQ¢ŒX9ù7‚A8Íá˜“Fr}Š,8™ÂWİéêvı®cr{ÈM~âùÍ
+ßÎ(>_&”°x
+5ÓÛšm€Ê7„+Ñzäîù"¡„ÅQ¸™Ş,®§»EîW¢Ùp\t‹Ğß‹¸‘Ş*n	*¥†|øfp%
+ìh\tĞß‹EÕ6·´×àT„.7Şğ•;‡/JX…›éMy%kÁ4n¼õRLÇÄ—%è5B›é-y”;xF» òª¨ê É1nú[®ÚHoÈ	®dè9'+ãOOñ;	£»zªº'qyç|'±~'!ç1t'ÑvÇ˜¼ÓØ½cŒßI$àyÌ lî§Äí=;lï‰.bË=ñ{çc¦Ôî‚‡!´Z/ÑbZ-ÔwØU³…³ıµZĞ0~¶€f¿ËM¥Ùú²Eµ¸hàay.l²õ3ºğİ+QÑL\œï°¦6<ì®Ù…#G²}¾‹ÙFZ\ ï0¥V6×Í#?¶z6»{¥¥ˆöÑì¢|‡ÕƒkqQÃ¼Ğæé#w¯ÔÚFƒñ&Ôì"‡±µº˜aäÈöÎä¢v¯£ŠRĞS¨›†ÖæÂ…Ç&YÏâ}Ÿàşei8…Yj°CUuBc¸NU·{•4	¥š,n"½N2cø{'3†[Xvİ*i’Jµ—Pv'o»~ÎÅÆğĞúM½¾Dtï½èğãr.îiÜ¯
+HŸİÂ{Ì½"œXû;Ã‘[‚|–ú:‘09IF© mqNm—ÄÖ†À.­2œ ¶"[÷jŸI èZ´¦Ì¯’Ç9 ± Áa£=’¨0şL­Ûš·‰8¿wrL¶È±bÌnÚ-x½ÉDôucCÃ–J †0w¸”pw¦êš2ÃJ~ığÏ°ÁÙ‚ÊÿB¸5´Ï ÃÜW2T(	„â ¶¼.ÚşÂp‡`¸‚3zaGĞ˜`VcJ¨…5JDë/9vJSfXcÁğ(¿ó`˜àã7r8iˆC Œ„qèt¢Mo§%†:•Úúó»HƒC‘·Şàæ¨b¡¬ÇY/p+)}¼½¯¢±LT¸¯•¼„”›#9û££ŠÒØ©1ÓúõFOŸİK·“·e)b<ï·}ò3ÿŠúSÜ¹–Á~o=Ù†AŸu‹³A¦.¡ig-všº7‡âw Q°9kèF'ãğZWc(œÛÆÑåÎZØH$;›B—®ÁYB¡“–éJâ¡BØfChÁ ŞÒ³³ƒT˜”3(<‹¼´àßäî­ p^ú!#ª˜A¡gv¤T+(vÑ°x#(é¤ÒghÁpè>B·ØŠ!‹ °¼Ã ¤õÉ
+Z`fÙ¨ê­ ã³)ÊD­ GD*tµ‚Â˜-ÄÙZáhEWşÉJ½Do-è.AŠ{µØv&PÜbÛJã›m ÏrØ:‰m»zªFÁË‡ÕàÄéGµÄ¿„ÉÔ„ŞDèÇò(yJ0İ³cééœµÜTw>¶ÓºcP÷Ñs‡»“P<Ş¥û€8ŞU»È¹“øºc oª}4o‚]ØÜ1¶îƒ‡{àw¥¶˜;	¬;Fà!ÃcÜ•¨û`¹“˜º“è;>àöñoÈñ)wPwŒ¼ã=²‹~C~û ¹“HºcÈs{,jî\q9Îä,*ı-zÀq²›c‰Õk.&i 	ó¼PÂĞ&êoU7
+‹eßW[êX”¨ÃUFÓyxQÏõ–ãàÿ-—•‡Ús¦30édã‘	kwóšK¼bÇ@:,ÖS*aqnæ5—’ŠW\	 Kª¸TÂâ(ÔÊë-7Ü puzË,9ŠŞR/FàF^o‰9áÕÊi.ñbUÉ†ô”òs±ßÜÄk.o­•ï5—¯SSÅ¥ü^y½%¢¢ˆ÷§·, EP½¥To©Í¼Ş²`¤!ª.œŞQZ¬†–R~ŠÖR›x­%
+İ6ºYké5g³Æ2’—É¥ ¼NTq/+HäNKê…VÌ¢¹M42=Ã|çùÑŞ.ÍçÊÑ‘¤k<³•ªî
+Ÿú&¸®•F]ë(íQ}ãx|ëáâàŞÈÍÇÎÇÒq?i·Ÿ€Éµap5¦Ã·á|H Ş;\“Ù”ÜPâFTÒQëğV`"œªtö§ ¤PÒ‰ãPà:GwéáÀâĞØı®D\éhÔ†m}xhŠãCÃk4yHŠÄ-–Ş)e¸+\‰X2¡ñj@\—D—»°áaÕºK]ÈÈ®”H–½á¯p%"H2òRn°EÕ¼…H#„ºGÜ´…mˆ¯$Î
+È,¢ßáÊÉ§¡£‰9¹œ…0‡:–=$€ô•äx+ ?t¢¢X$õjè¨@	ÙóF@-dËVÈ;¢À=ŠÍ¾
+È¯â-¨âÔĞñÔîSB¯hÊI.S!rÄMBA¬âç0_¢âÑÉOI*;Ø’¢Æ3ù-çg@Es„1éià¶-nÓ‘Ö‚Î"›y74…ÏƒzYe¥”qa±g„ÏrìÏŸı6.÷à»qóo7¤ƒr;=şùŸŸxş?i’'ùà¹Ñ°zç`n#ù‰·­Ø&k&Òj ‚€O¡fĞ6Ìyg»g „ÅQ¸™G×F«;T€6ã0Ğß‹¸‘Gè/ŸÜƒ‚*»DfHBú{1µñ¨ ¶b«WåPAG«J.Uah3`g–º u¸ #€Øb0
+P‚âmæqzÁæBÖÅHy´VAFX…šyl€;&æÍò:OúÅ09à¯ĞÓò"¸cZÎŞ“Sz>¤å<WªúÊM)§àÀÁáu‚JfP"£³õ½”ÛáM÷°àqTğtPğÀ¬Ÿƒå~dp
+f\ÀÇ»œîLcà0 ãM˜À­+g»íW¢ Ğó_ ‚"‚#Dà±.§:Ã>üõì|àà£ÈIu=ÓYœĞÉ?~…‚@~PuÌœæ¸såÔ·C_ÁSğI.ù•„÷vÜ&0H ĞAÃ-É!>Ãõ¿Æà³Şz†8(nğgÿáèå¡ª¬Ê}Ş-µŞ:8˜Ÿ˜nŞË@‹BSã£ò1Ê™_ƒ¹S§£7ÅäL!£R¢\Y_pg|Ô§aø>ùVp:Õ¯îKqœN“§.æÑ0\2sõ^PçqpPÿqƒp™ÌÕ%Á'2Ïs\ïsn/ŸÄ\½|sõZ0§qm0Ïqğ	ÌÕÁç/W—õX·ójŞ>w¹z!øÔåê­`Î
+âÒ`âúà³–«‚OZ®
+æ¨ îêÍ n>_¹úølåÃKAÔ‘AıÔáÁg)W¯…§…}†ÉcÆOÕšŸ	L¹.*ø£ªŞkêU¥o‰ŞßÔşJ93˜AXŞ&¡S¢Ş‡wÜµĞí‰²à¡u_ş¾vb83	LQìû{CıoÚ±˜@	.¹¨ô}j=Õü›â_¬Î8ÀFŸTOôù>¥hıMé?fûO¦§š|—JOş¦ï«€Äzà“è©ß§ĞSm¿)ûÅ$`1øäy¢Á÷©óTÑoz~±˜1@¬>i(ğ}Ê<Õó›š_LÃ öŸ,OµşG¥¿]W½ÑÊö§æ0ìûG7€É@Ü,ôY|
+,ôY)g®æğ ¬“¿Ã—ÒlèÂéø†;§ƒG}árğØŒŸ˜–{}N]¼Çzø¬xê] Îê‚à=ØUÁçÃSŸO=Ì±@ÜÌû@Ü|<uğiğÔ«@
+ÄóÀÄCÁ'ÀSWŸÿN<
+Ì¡@¼Ìé@¼|â;upiïÔ›Àœ	ÄåÀ<†g‚Ïw'>Ù:˜x˜³x%ø<wâà“Ü©yWõ4P‡—İN½
+îq*P¥Uõ¾1u…RX}êâh¾†‚Ğ®†“§¡à}%ê@Y)åÔ½Q}*…ÓÑ¥rò¨”q)Ñ^hp:¾áîâğ¨Wã3œŸó³Ä½§“_£8'îüÙ‰Ñ»5²§£§CääÓ(‰Ş¥QüÍ}Qœ"¾ŞŸQ|'wFñ]4×Eqp4Š8BN¾Œâ8¹2Šã¢ù-çF#ˆääÇ(Îˆ“£8-šÏ¢x6e8@N>Œâˆ8¹0EsWŸF£ˆïãä¿8|'ïEqU4OEñg4Šø=ú.]½RÖáÀµğ×¡dÚyÅ4WbL4tÇŠe>g¿jõ1Õ0ºògJ:-”æJª	·“"mS™{PŞÁ};¼ì¾JÚãEÒ£[8Ìø±FÚA¥p>51Z‰4Q$º 	3&J(¤*%XR‰.DBm„>BBM‰)ºD•e¢P¡PS¢‹úD”…¢0+¡c¢@ŠRÑ‚$‡RÑF˜‰ĞF˜-Ñ•?zE‘Å¢‹P¡Š0S¢+|&ÊEí¢Š0¡Š0S¢+z&
+FWM4Œ>,B­‹gQOJÚt–³IÑ¿s÷±ôIs®ëıËÉrèÊ'aqù½«)=”¿=8ğ8ëi$^y(MÓoŸ¥i9KÓt¥iNÒ$Y–¦ÄÙšiJÇÄi›\Ö&Iğ4eÍÖKSÒlÍÅäR1IÊ&—±I’;M³5¿Ò”1[1Y&I×dÙš$¯Ó”-[³+MÙ²%“ea©š,S“dtšÒdÌJ>GöH¿dÙ—$E“eh’TNSrlIª4¥Æ–äK–{I24¹¼Ø#“Ó”[2*M9±%ó’Ëˆ=Ò3Yv&Éâ4eÃæDLÿR&9¸ÏR&Xº9Ë¹|ê=z•¨ç³åAPÊY¾Ë« ¬)\†–>4n©öo·K“ğh–„gf»~R¦å˜a—!á˜ aÎÀÀ§¹à’!0°t	Œ |zkE .¹µ Ë‚  À§J` àÓZ+ ğI­ X –(A €Ëg­Ç¿Ïf­ç¿å?ç¿åHóßç±Öãßg±ÖÓßRÈéoùäô÷	¬õô÷é«õğ×¼zökn9ú}æj=ù]Şj=÷-ãû–AN}Ÿ±ZOıV?5ûÒiò%ËXd.‡HS$ç6 ª‡¢fTRÊYæ%ËĞ$¼ù|º'›müš;êğš»„Kæ[¢ş»²--Ê}—mé,Ù’Ïµ$pß%¤–+¦U’Kƒf^’›…ÏC-Pßg¡–&U’;ƒ¤]’‹…O>-(ßg–»€æS’ë‚¦\’K…O9-ßç›V·CI¦4n
+’mI¯>Í´`{ŸcZn šEIo	–iIn>¹´àzŸYZá¿æPÒ;‚æY7	ŸSZ½Ï(­ÈßÒ'ÉõÀr,É5Âç’–›À%’9dh´‡æès%îr7YŒ–c‡şnàÒVnSJHŸòğÀÇiWãrğ`RFşÇúÛ§MÒŒ»{Â!/ã”Z§ĞâW¨9O»f·ÔŒ§ÄÏâW¨ùO»fã‡Ëà”îy8jòÅıïC#æÄNƒSŠçáY¨‰÷¿8*»NiÅ³Ps.‡fÌ‹]§tÎâY¨ù„C3Şì28eq…šlqÿûĞh¤^¼7kóÃnFš4ı´î–Ë¡,IØOê^Mª Mínj
+xWGKI§·\m.awRíkÎ-tÊ[˜raÿ²ûüğ–Úzº’ài>G‡^ûœğç•¶ö…¶¸RÖ”ÒYkjM%µ¸ôÖTy‹‹tMùœµJÖ”ÎYëi¹rZRvËUİ’]S.g­‘5årÖjZ®˜–ÔÜ²’[£6×”ÇYËcMyœµ–«£%õ¶\¹­Q˜kJã¬¥±¦4ÎZDË”ZkË•Ú’¢\S"g)‹5%rÖZ¦'2[¦KĞz\Sg­ˆ5åq–ÒY®r–TØ2u‚Öâšó8K1­Âã~Iº™Î«Mø¬Ê²5ÏŠ=ÌxA·»{T¥‚/ a´Ób®.…p<©t1'“–QºÇ»8rxç½y¼ÀÄ3ÄÓ}•¦Ú§‚äÚsi	©1W–*®ˆ„›˜H\–b.+!u!æªRAÂB$%)æ’Rb®(!Õ#\ñ)2áHRb.'!õ æjR9Â$¥(æRRb®$ÁU#\Ñ)-áHR„b.#!… æ*£b„+!u%I*PLĞCj@Ì$¤X„Ëô,5%IªOœ—¸'ô¼š¬vÔyÍ,WºJªQU®Ú®’*WîÑQËø	á¤`–«Ó%œNÊtÍUºdtö ½ƒ²;¾ì¾NÖãe²®Œx†‹ÓT‚ë¬HÖy¬¹D–¹ò¹Ÿ­–«†%U³\Ñ,)¯åÒ?[…+ŸÿÙJaY%,)˜åêeÊZ>´·ò µ–«%¥²\¥,)ªås@[a+ŸÚ*`Y,©“åÊdIE-ŸÚjZù<ĞVıÊ¿’"Y®F–”Óò™ ­¢•O­•¯´ğ•–ÇrÕ±¤–Omµ¬|*h«zeE¯´8–ÕÆÒ2Z>´•ÁºGyñ$ÿ'«vy^áÓ•Å”ò™Ç:›S™M©ÇiiÕNW´SI§å=]!ĞÁíPTÔ×Õ¡ÙS2~W ôğ¢»ªõ|†•ãYPÇš¡»Âçu=÷e=¹2§Ï­<}O.ó9Uùä‚ >´åôù ­|§«Ş)U>]‘O)êòAk=N—Úêvº²RŞÓª{j!PŸZkqúlĞV´ÓÕì”Ú®´§Tõé ­§O­;]ÁN©ëéÊzJPŸÚªpúlĞZ­ÓŠuJIOWÑSŠúdĞV€Ó'ƒ¶RV©S+zZAO-ıé’AkéÎÓ\Ğ¸G£Ÿ®U]š‘TËY¼ÕrˆÊZ‘[Ëi Ôr”ZÑTËiÔÕrŒÎZ!\Ëi¨—CE^-ÿBèÕCîQ÷E\oî;jC¯û\©@RH¡m Âß‘Ê©§gœ&x´„…³–áŠ "›¿Ñ›¡§+ ¦\ğÓ¼N`2E#El‘8-ğhñ;&¹¹¯p \àp:ÑÔ@€œtO#Ám.k’ Ã@ávÀ…ˆ¹ëö~¡!b•tãH¤É©|ëà¶x5hp•’+FAqä˜·8€^<à-hŒ[+ÄĞº®œdŠ›âå¥f¹bD³ì˜×†®O sE}ÅHˆ7Hè¤RG¹0n‹×+Ú‚Ù@$ÚğoQ+Â×¨ÄdWäº`ƒ„ÊJ¬mñ¸õœµ¡{–“*@¼ònº§ã£®Uâ¨–c°Õr”µƒ·–c„×r%µ£©–cÈÕršµC¸–cœ×r†ã	áYÇ´jOgÿê¡TpChœg9ÌZ!Vƒ¸‹ÄZöÁZË1¤‹¤ö!ÌêÊÔ9k9Fl-‡À.âwˆµº2uÉZQ[Ë!¶k@Ø]´91¢²–cèÖrˆğ"†‡€«+SwYË1zk9FyÇCÔq<Dg-Ç®åéuËûq½"~» ­åÃµB½·Ç£¶â„'’ÊX„+ñL'˜Q}øğ!„èEp˜±á2ŞÖèˆKÇ%Ñ`6Œ—‘<ÒPªAåf B{†nªxÃïà*Ş^v{•û‘=ó¤ñ¤oàÄÈèàˆ=NGGØ²oµî¨™+†=02)>X{E°‡µôØ·/&ìTÀ !9ìa$ÅÖÖaŠ)KVØ“ö`­oË{I±‡µõØ¶t«H›±)‚£Ê=Œ¤ØCÛNØv\¦•ã¡é{Ì=Œ¢ĞCZNÈ6y„Iš‘kûæ‡‘yh[<PÛ‚JÍy xCÇCFRä¡m'äÑ2æ¦K{à1g¡SäpÄèe×Ğ§nÂäöFéõx+Üğ(1£‘Jšğ‡=¨°ÂØIúğGÇY@å†)‹ït&è¡Éø•Ïñ=÷¸ÃOÀ9îà'‘yúlÒO°‡ñİcé£ö@™ø`ÀVoÉu*"4‰Fª©hÍ‹ÂµD4w¬œø@cÇÒ@«íÖQªp„Ì»=Q·D|¼Ê5z`ˆˆ®­w‘A5"F&®¿EhºÍp;Í7†Z"ÙYj	Ä "¢ÇÈÈùdHmÚ±à%PñtBßX[ÆÀ;“É4r„ *$àø	ÄP#bè,eÀS@QÓ@yš¹@'èwµ	)c±§(öEãxScyÃx$bDZ¤ŠÑ\b$§0i"Â†ªî·kP/”Oñ¼ILË#¸%RoÊ3üÀİ˜z*ûØ/øÏ'vºyõ[X°ïa¹~«¿Áş?­hûñŸıËß|n$ø8!Ñ%€¾à?åR/T)’†çæËİÍ»¯êMÇ'œaùRUƒŒi³6Âó¿ıâw@ïa”Ôáæõ;ŠìÅC
+ íæõÛ›ï^ş?}øëÿûñ§|¼ûçÇ»Ÿ¿
+/ï>~µÀ‡y~ıæ;øùã‡¿|üğé=ÒÂË7ŸŞ¼û&ÄõÏ_ıùõÑñª£—òãÌâ½ÌÊÌ+?Î+İË+=a\w?ßAã/ÿ`^Ÿ>¿ÅŸÀñİ‡ÉİÛ÷8nüîËç+wÿÃ›/wŸ~úşé›ï~üôæ¯wßÜıßŞ|z«ãûåÍÏw?~ıãİû+<Ç¤wŸŞÿô=6	×ëüOcš×¯ß~yó‹
+öš`§Qñóß½ÿòùşóö·?Ü~ıã÷o~¸ûæöÃàûñîëŸïøÃËŸ¾ÿpû×¯aFy:ÃË·~üéÍ§[è/Á8nßü€CúòùïŸŞrÏx`÷Ã„ÒÄQûş:zşşÃÇ·c<·Ÿ?~şò>÷?ÿÌ¤wŸ¿Ü½¹ıĞ?ğŸ>._îŞ~ışËİİ§¯ÿòñïw¿j×múÿä§è=Bïğ6€ÛÖÃ?~ßH~ÿ¼‘l$¾ÄŞı`>Ãïã`ä¿oTÿ¾Õ_>¾ïöşË›|ıË÷~rãêO›!n°?§û‡y²ıø/ODò¿¿ûCìÑñ” !c¨€¸˜æ9ZüÇëÿr.ì
+endstream
+endobj
+1950 0 obj <<
+/Type /Page
+/Contents 1952 0 R
+/Resources 1951 0 R
+/MediaBox [0 0 595.276 841.89]
+/Parent 1961 0 R
+>> endobj
+1953 0 obj <<
+/D [1950 0 R /XYZ 63.78 771.024 null]
+>> endobj
+1954 0 obj <<
+/D [1950 0 R /XYZ 63.78 771.024 null]
+>> endobj
+1951 0 obj <<
+/Font << /F17 1955 0 R /F18 1956 0 R /F19 1957 0 R /F20 1958 0 R /F23 1959 0 R /F8 1960 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+1964 0 obj <<
+/Length 1234      
+/Filter /FlateDecode
+>>
+stream
+xÚ…WKoã6¾çWèHÃ§(¢§}eÑ"‡ kº=(–kcK,g›Sÿzg8”,ÅñæÑœáp^ß7ŒH‘|½ñûquqyU$û\åÉê>qwJ'¹²\;“¬ªäov•fª`ÿ¥şú4ÓZ³]İ´u‹kÃşJÃÊ¡î£ßU¹kR«£zÛëşlHë¹©·5I÷´7Áº¶&…UúÏêÏD‰‚Ká“Lqi,9ô%H,·Ú&³íÛìk_>mšG´FÎ¡û4“ñæò»z”<¦Ö²²mSÉ8¼¼Rf–	¥×ÒÀÅ’{YĞ«f›fV²-˜g.3Vp/d’éBs}úÔ=áÍ/}ó°ÁÅ@±)!yqÄ´ëÛ1vLi›*Ç†òÂI&÷Z“á›d¿köû¦Ãˆ„aÍ¿–=ôx.«+}×Ñ›´Ğ‹%«šıĞ7w‡¡&•²­.»Ö;ªZÕÜ¿¼• £¹·
+›P7Éª.…­»ºÊ;É$È¸éä¡­êx#Á„£éî²`Iú™))WĞ±ÑÖC{8½*˜ëbT¹Âèû:ƒªÏUa!¹Pf«ö9¶+ÆIq@e»nÖu»¯1}^bï‡›Ä’+Z„$:«øB?¶’?‡boöĞ¡IÉ¨=î¶Í~ÊªSÀš2‹+l#üúÖİ¨õ/+û¹NùşÿfFhö³6SGÍ‚FŒj³?BÈÏ©ÍÁP;‰Dßê5Ú ;†Ğ‰‡(©)gŸ:2qŒ”,v5$ëßÎçØk´¯şXœ>¾k€C(V±´Úšr¬c¿€±Ø9ÛRÅèGÀh5íz{¨êè@Ó.2’/ZŠâ&lÆ–h†-œ>mÈ"ç¹³ïõ£W§ı®:Ûz »‰ŒŞ;æBGjPg¨A6|‰\¤ØÔ ß×Ô ä’@e¢XOÔ -p†,Z.ÙÁ !9†¨Â¦zsTyBi¹~,êÓÜIäšŸpF²‰~ÜË`;ÊŞæ/]«@æ%Vn k¤ ?##óW„ bEŸ8?§¤XR¯Çsæ p äv¤Ü™h Ô)XXÌº~8¤"ÒÀ¨3Ñ `'7„Mu'/ïéª˜¯×€˜!IG$™’4")|#vÌ;ú=ìHç¹sïcÇ*SèˆÈPHßû_#Ã†)+·ûV‹ñ‰*CÌD@àz‡¨DP¸³óÒ*^ìï€Š3ã-¥Óô„âãKEN`¼!Æ\è/ğtŠóÈ¾Fú;V83Êp|æÌë¼îÚª	Líàb[DJÅë’¨ø–~Ş€³=#ã”;nÆÚàA¬ÆÒ£.ÀEYVÃ0
+.Ò3vî9ÌR=¿XkÓD¦ND½PØü.¬(ãí/XÁî%İFrI'F¾1GLBGÑÈ¾@–ÆCúÆ>hâ-Àä4æÍC q#h¨Õ©Ò.É¹wğ²JÃK‰{ãà=,L|"~8íÃuáğ-=)­¦·´¡7¶yû·oÉ›EµÃÎ)§95ı»‘d^ÀTÈ¡ë$/FÔBçËêâò:Ğ
+endstream
+endobj
+1963 0 obj <<
+/Type /Page
+/Contents 1964 0 R
+/Resources 1962 0 R
+/MediaBox [0 0 595.276 841.89]
+/Parent 1961 0 R
+>> endobj
+1965 0 obj <<
+/D [1963 0 R /XYZ 63.78 771.024 null]
+>> endobj
+1962 0 obj <<
+/Font << /F8 1960 0 R /F24 1966 0 R /F19 1957 0 R /F7 1967 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+2007 0 obj <<
+/Length 1841      
+/Filter /FlateDecode
+>>
+stream
+xÚíšKsÛ6€ïş¼•š©`¼½¹nâ6M&n¬ÎtšæÀH´ÅV&UŒ›^ú×»xIò+´›xÒXºˆ ,À‹Å. œe8;ÚÃ·<¿ìí?e"#
+Q"x69…¤B\šLy:›Ì²×ùd^ÆL‰|RŞLA¹YGhÄ‰¾ğ±Èe±a%R‘_ƒ´¢­ËrÄ¸¤^œ@R“TöøèéM9FŒ¬Ú<1’Ó£Ğ¼¤yqVvëZ!¼è1v†Ÿ÷¢¨]ı¾X„~6mH¼sÙeÛUM2":Ê5—ä2âˆ•HiÄÎ­]~³¿ß5};-AæY‰êÒî/Ûæ÷rj»É÷—g§AÅ›â 5<S´‰Ò&ÕÂuÊ|2Òğ±õˆêÜ}¨Ïe=P˜Äñ, ĞI_÷7ŒY(§3ƒŒ¤2ÀÀ
+HÃS#ªU(úCİÙÊöšb,?AòF~{…q§M[Úª›ºxÍ€’?Ôğ…ç…­üğg#"f FXıs]½sUP21Îdşİ)Ï7Û{ë_JßÌ7a‚1ÄR&æuÁ7ò¬¯Ë€‰Ğ¯]Båcu“‰ÑÈÕ
+i;yØx]°eí”ÉF-jƒ†¡irÑØP |…¶qæ³~jÖ8\HD…IºJøCÁ9o|^,‰@6”æ'¶}a7§›MôOŞw¶<^Šæh4vh?ßƒóù; zeì²× ğZFşël|:Ğ›óeÑVŸü ùòó
+¦­ü/ş;j‹å¼šváíxjWDÅ2˜£1gôK'§Ê‰àÉ"ÏŸmµ¨lUvß@O¹p”´C˜†ôyìÚh¬éÿT§~ ÿe)ß8€Ñ@4î«²˜…Ôd^uá¿a	ñ«ôQ’üHÍ–ÌEd~ĞÛyÓÆÉï¼ø €:È¢œ­ÕŠ
+®¶ù}èÊDWFºG¥µU}è~ïŒp¹XÂ›0»EîÓ­Š—Gãºã~3—”ÿ¤Hôa,¸>“‘áyo›¶*İÚµ÷‰£¾š•‹ªv åLœ¨aŸŠŸ
+Ë$AH~ b5Ï«äiıuÈıçÂ)H»øªÿØ~¶òå Üè<ùğ›Xú¾Í	NWş×qÛ¼]8Ë;[¶ g«tí¤ÅJBK;Õº—¾éÚVºòÂN6g¿¼âø>ñ#ğ®j›zí:(PÇÇï%ÜİĞ^AM!Ü1âo¯ì„óMâ<g·WyŒ«:Åp~r©LB@ÊtØT k®XFæ1N;¸>Á²@:Ş(4ññ“€hÖÃˆğØÛ'«|‘mdÿ o_ê,»Ë4X]!BÍõÑ£ŸfôEJú=#EoÁÏ¯à7œ|±É\!M±ÛùuÒìÓ>lê@˜ªÌ4Ü­5”~A‹Ìéj*Âæ²HWã‰m‹êl­»£BÇ‡{’ß 	ût„oÏÒzgõ¦x`½Mñãaß†]ºÙ0j	ŞÎ•¾7ê6VítQcXï"[i“Ú)Œ|UNmQŸİ8cz¯ã¾öz±J‘z[Í6w@o¦kİ.<Òj:€\§­§Ùlñ€f¡pÓOİÌ7\èê´ş½›ší¶Oîåš˜ˆÿ»¶ğ»{+?ğåÒ)yçö/Ô˜‹‡`ÏTŸ`€î·Óa[®0İÖÍ€»øAä$"?\TËåUƒ³Æ/Ù-•¡û|h hˆÀ¼-Â!y³(®>œTu¹ZŠoüÑí”İ~‚FÅ[Ù>­‹µ'¢—M½![ç~¤K*áÿÉ¼>ÁXl¹µ~ÀñCÓA¤ñXÆ‹8ÕéûÕ´8l‚áia¨
+ëNw¤äÛz`ÿ	¡ËäÛløõmÛ8gş"îËVK‡›±İ¹çı×¡#'¢’ÆO›ää˜İ¹ŞO	34*:
+Äµ,o‹º‹7}˜ÅµŞr¨¹â7ÿ«2®Åú<v2‡dºÏõÔï;´ãçqipVÊˆíq¶‡áï‡â¿×øò/’?µ¤a»¼¡™O&{î¹‹ç8#™dHéŒPŒ˜È¦ç{¯ßàlÿ<Ë ÇèìÂ—;ÏÜ,ÖÒ‹ìdï§p§«L £”?×V)ìnÓ€Ätå|}#›’›Û1¢İA N—¦ŸÌ*ë¯·HvñàiÃ>HÍÜT3ù´÷GŒ&·Ş,úÀîR<†ÑvªEBmH„Úá¿yáä½sÙeÈyë—e,pÑVÖ¦—·®ÜûØN¼Ébu/Î½ÄgUÏª)¸Œ³ôšºUv±¥¥ï´; (gÙØ .£Iò4Ï§®ƒóbé.äúË8-¤\"]?‚B^ºpgµik^èF¸|2‚˜TÙXbÄÓ5üË;% 1ÿà¾2
+endstream
+endobj
+2006 0 obj <<
+/Type /Page
+/Contents 2007 0 R
+/Resources 2005 0 R
+/MediaBox [0 0 595.276 841.89]
+/Parent 1961 0 R
+/Annots [ 1968 0 R 1970 0 R 1971 0 R 1972 0 R 1973 0 R 1974 0 R 1975 0 R 1976 0 R 1977 0 R 1978 0 R 1979 0 R 1980 0 R 1981 0 R 1982 0 R 1983 0 R 1984 0 R 1985 0 R 1986 0 R 1987 0 R 1988 0 R 1989 0 R 1990 0 R 1991 0 R 1992 0 R 1993 0 R 1994 0 R 1995 0 R 1996 0 R 1997 0 R 1998 0 R 1999 0 R 2000 0 R 2001 0 R 1969 0 R ]
+>> endobj
+1968 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[0 1 1]
+/Rect [188.983 684.835 406.293 697.786]
+/Subtype/Link/A<</Type/Action/S/URI/URI(http://sourceforge.net/projects/pgf)>>
+>> endobj
+1970 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [62.783 530.456 142.885 539.367]
+/Subtype /Link
+/A << /S /GoTo /D (section.1) >>
+>> endobj
+1971 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 516.564 211.78 527.412]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.1) >>
+>> endobj
+1972 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 504.609 295.425 515.457]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.2) >>
+>> endobj
+1973 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 492.654 229.575 503.502]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.3) >>
+>> endobj
+1974 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 482.636 223.486 491.547]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.4) >>
+>> endobj
+1975 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 468.743 247.784 479.591]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.5) >>
+>> endobj
+1976 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 456.788 164.416 467.636]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.6) >>
+>> endobj
+1977 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [62.783 424.354 227.925 434.649]
+/Subtype /Link
+/A << /S /GoTo /D (part.1) >>
+>> endobj
+1978 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [62.783 402.436 276.968 411.347]
+/Subtype /Link
+/A << /S /GoTo /D (section.2) >>
+>> endobj
+1979 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 390.481 192.187 399.392]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.1) >>
+>> endobj
+1980 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 376.589 229.824 387.437]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.2) >>
+>> endobj
+1981 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [105.623 364.426 302.216 375.482]
+/Subtype /Link
+/A << /S /GoTo /D (subsubsection.2.2.1) >>
+>> endobj
+1982 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [105.623 352.471 321.342 363.527]
+/Subtype /Link
+/A << /S /GoTo /D (subsubsection.2.2.2) >>
+>> endobj
+1983 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [105.623 340.516 316.775 351.571]
+/Subtype /Link
+/A << /S /GoTo /D (subsubsection.2.2.3) >>
+>> endobj
+1984 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 328.768 226.863 339.616]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.3) >>
+>> endobj
+1985 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 318.75 223.265 327.661]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.4) >>
+>> endobj
+1986 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 306.795 217.177 315.706]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.5) >>
+>> endobj
+1987 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 292.903 234.445 303.751]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.6) >>
+>> endobj
+1988 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 282.885 211.711 291.796]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.7) >>
+>> endobj
+1989 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 268.992 213.884 279.84]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.8) >>
+>> endobj
+1990 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 257.037 182.003 267.775]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.9) >>
+>> endobj
+1991 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 247.019 207.491 255.93]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.10) >>
+>> endobj
+1992 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 233.127 177.215 243.975]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.11) >>
+>> endobj
+1993 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 223.109 271.556 232.02]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.12) >>
+>> endobj
+1994 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 209.216 195.093 220.065]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.13) >>
+>> endobj
+1995 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 197.261 142.485 208.109]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.14) >>
+>> endobj
+1996 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 185.306 207.878 196.154]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.15) >>
+>> endobj
+1997 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 173.351 192.685 184.199]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.16) >>
+>> endobj
+1998 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 161.396 141.378 172.133]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.17) >>
+>> endobj
+1999 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 151.378 178.627 160.289]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.18) >>
+>> endobj
+2000 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 137.485 236.023 148.334]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.19) >>
+>> endobj
+2001 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 125.53 162.687 136.378]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.2.20) >>
+>> endobj
+1969 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [162.818 97.635 175.631 108.002]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.1.5) >>
+>> endobj
+2008 0 obj <<
+/D [2006 0 R /XYZ 63.78 771.024 null]
+>> endobj
+2013 0 obj <<
+/D [2006 0 R /XYZ 63.78 543.505 null]
+>> endobj
+2005 0 obj <<
+/Font << /F35 2009 0 R /F36 2010 0 R /F39 2011 0 R /F20 1958 0 R /F46 2012 0 R /F8 1960 0 R /F57 2014 0 R /F7 1967 0 R /F47 2015 0 R /F21 2016 0 R >>
+/ProcSet [ /PDF /Text ]
+>> endobj
+2071 0 obj <<
+/Length 2104      
+/Filter /FlateDecode
+>>
+stream
+xÚí[[s›Ö~Ï¯àÍÊ¾³ûrÆ“4­ãñÔJ™ó€¥‰¡4î¯?{³/ „2±k[Ò‹¥,¡oİ¾õ­EäÍ¼È{÷*2¯?_ıø–0‡œBê?{…,öaD7zúhpHüñˆS]ešd?€2
+PŒı‹‚¾¨Ê48•:„üÏE©Ïı’ÌD>
+`!à#2úßø×ßÆ­/8ä{ !'Ä|cF úeq‰…ü,„üË*©ÄBÈS~>‚±/¿‹Êï
+åÍDÑ¼`ÎîÃÃ‹Û™Úû3 QLšÃQzh ¿U•æ3ız©^±_Í…>ğ¦¶À—´,ò…°Ö`ï€»;È6ÔljÈÂ˜ƒ7ux×Î0n#âènÄ™B\Hsız¦ƒ‹y4äÅup1R†<Fé/<ÙA¢˜yAë¢±ºÈ#!AX—7§¿qÇ‰×:üI¢ ïí¥FÙ.a€˜… ò­h©ãå¬w‘%ö­FFQÈàğãüƒ}IHŒh	ŞF=Ò¯‹\#¸´ãbÒïáæğ'UkdR|9E¦7!Ñ.Ô„,ÚrjdJÀ{ØËBpºTia@¬
+ÿ¹:Çü©XÉÿ‰$MØtşïÙ`«şbK}²dâêï¹1‚YÁşqåN9Ç?1UX¿¼Õ¦K¾Ê{á`Ÿ­Ò2 ™[8^V*WÜf
+bÇÇ`Ñåï°†£@ÔXÃy¹±Hú|ÇÉÁ‚ùˆE7fM’,z“ìØq}ÛÏì!;ÄßX~YR¥_TòúäÅøòŸU×,šV2¼ÏM.€•XO¦SİYr]Ã*2ë¹øZµÙÎ&ğ1ÀGAa¬ATSC¨ˆw.&U>ÁäPóÂ÷WÁüßèëgi®=8ÔJÛ7à2 öÀm8ºäåyrSçæi²~—äS}É‡uV¥Asb<Š‘_[‡3¶'>‡|[•í,©ùy^¹úI¥ì-°?Ë
+'ÏÜÌÊbOm-œTI>ÓŒÑ—Î{‘DCHbƒ¤Cêu±Xf¢Vi(7¥Çæ{ĞïŒR;Ú€Ò" ÖÁz˜ònNE¦3¬š—Ô²JŒıwe²œ§u|Lw›˜àfb’%y¾xÆéÂXü\ˆ©M?zLÓÖõ_—"iTâ³>İÜçñs±]¯EîWW°›n\©¬Z”7ÿ )Tæø»ƒˆÂâ˜èƒƒ„*İÃl a+Ê
+vãğkùµÄö*­æñêƒQ¿±ªwØÔ;.Ôâiõ@ÉWéªùäÖ”<QiÇUQäM¤Ê†¯Á:±Õ°áŒÇ{’¾{S@<à Vûëp`; °ÙN¢X7Í*éaxÔÖÔ•«¢ZuğëyRªƒüû.ûŞDŞ­*a>€¾U÷ôÈ 2c2Wö]Î8•	§LÌØ‡ß3â=Œ†½/Øá€ˆxl¸A‘¬ŒÌlÔ¼—èõ Éßç«*É2K»1øË72çK‚‚gëÒœ…  î¤YáİŒ6‰&ÑDsãÃÕh5]åòr}Ş&˜²³!dÓkHC1•×¨~‹ù7#BıdÖíaOK#A–úÄuí)Wò&d\Ê]D­ÚwF+qœÕØÒ‘ª‹R\Ëf7S«ô»ÄÎ.*‹R|Øã§.¾}k8¤µ†s*®ÓDÆy„ª¿çy²7Aº·[¡ùş¦Yê§Q@ŸFw|‘ê…}k­¦íö|´™[Z½¿eÃ¦õ­Ä×ÅçV'Q
+5›åì˜É[™æ¾…¿r—iº +&12üoB,1~óE•ZQŞÊ®ønó©n”‹™=t©ğÈ³¼¢m¨àP¥§ñéeP«›*}›1'~ñ-Dop«Æt· ·òÁÇ¥z[¢–_:àRpÔwtÙ]$_ª™øY:ùÊ
+¾š*ÇJ_ªõùÛ2ÍÕ›ª–~¡$ù;J¿Ôñò+%MJÏu€˜/4ËaKbõÕyà#ƒŠ/z¯(G%wS•wç)__gJ!ÖÓ½Ú?èKş¨…Íº	Ò zŠÚêQÛ¾´E[t\v9ÉBÀëLaèqÿë<»¼-¹šŠ—'$Kòaº"Ÿ¦•îæ•£¿ÕÓ;R\ª,t+ëÌ-)½^7ÅÛ)LÌü1U:ÇÄT ™:){³Á_o—ÌÏÍ‚ó•ŠÚ¤,³J®~™©Óçn.Çw *Ôu".¥ö<ÏB@(İ¤~œŞû8Õ³Àîã,d§e+¯J«òÿ“j·Ü®XY9ªG’§ÛF
+„ÈüŒ"D$€‘ü`F^†µPÊ{İ²Ö1?ÿ+ğo1¦%:*gæ6ãsĞĞÏì-
+| ( W6ëömˆw(pĞç™4„	kçCƒA'V<U
+f‘'ùD´xPSTk“åÍ(`˜@¦îx
+A¥Ô«¹‘×6Hë/ÍÆvû².èí†‘¡Èë|j§aãyºê´èÅOçcÃp0›ÿæ:›«F…¬5ÉUä`7©NòÂbˆš+èÓ<+şë«ÖèØ v¢!ø]LŠÅBäÓön]~O¨(­æÅÚ<Ğ×T	·º‚¢§Ó¹)ôn P¡Âìr•+»•8·Ú­ó‹Ç×±ŸQéÇapÕ´f€õœ¹uòNÎ;‰ü¤öyİÊ.G/³dâ’ÿÁbúâ&»€4XïZ/ÊÊ¶csõLÖìŸ?wÄ²ëƒq½¶ÜŞĞÆµoÆ¯ş}‘%ö
+endstream
+endobj
+2070 0 obj <<
+/Type /Page
+/Contents 2071 0 R
+/Resources 2069 0 R
+/MediaBox [0 0 595.276 841.89]
+/Parent 1961 0 R
+/Annots [ 2002 0 R 2003 0 R 2004 0 R 2017 0 R 2018 0 R 2019 0 R 2020 0 R 2021 0 R 2022 0 R 2023 0 R 2024 0 R 2025 0 R 2026 0 R 2027 0 R 2028 0 R 2029 0 R 2030 0 R 2031 0 R 2032 0 R 2033 0 R 2034 0 R 2035 0 R 2036 0 R 2037 0 R 2038 0 R 2039 0 R 2040 0 R 2041 0 R 2042 0 R 2043 0 R 2044 0 R 2045 0 R 2046 0 R 2047 0 R 2048 0 R 2049 0 R 2050 0 R 2051 0 R 2052 0 R 2053 0 R 2054 0 R 2055 0 R 2056 0 R 2057 0 R 2058 0 R 2059 0 R 2060 0 R 2061 0 R 2062 0 R 2063 0 R 2064 0 R 2065 0 R 2066 0 R 2067 0 R ]
+>> endobj
+2002 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [62.783 758.128 241.771 768.976]
+/Subtype /Link
+/A << /S /GoTo /D (section.3) >>
+>> endobj
+2003 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 748.11 192.187 757.021]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.1) >>
+>> endobj
+2004 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [77.727 734.217 229.824 745.065]
+/Subtype /Link
+/A << /S /GoTo /D (subsection.3.2) >>
+>> endobj
+2017 0 obj <<
+/Type /Annot
+/Border[0 0 0]/H/I/C[1 0 0]
+/Rect [105.623 722.054 302.216 733.11]
+/Subtype /Link
+/A << /S /GoTo /D (subsubsection.3.2.1) >>
+>> endobj
